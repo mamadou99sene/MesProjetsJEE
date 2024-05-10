@@ -1,0 +1,23 @@
+package momo.rmi;
+import java.net.MalformedURLException;
+import java.rmi.Naming;
+import java.rmi.NotBoundException;
+import java.rmi.RemoteException;
+import java.rmi.registry.LocateRegistry;
+public class Client
+{	//@SuppressWarnings({ "removal","deprecation"})
+	public static void main(String[] args)throws NotBoundException, MalformedURLException 
+	{		
+		try
+		{
+			LocateRegistry.getRegistry(1099);
+			Clientable client=(Clientable)Naming.lookup("rmi://localhost:1099/client");
+			client.saluer();	
+			client.inverserChaine();
+		} 
+		catch(RemoteException e)
+		{
+			System.out.println(" "+e.getMessage());			
+		}
+	}
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generated 27 janv. 2024, 23:06:48 by Hibernate Tools 5.6.7.Final --><!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="bdbeans.Produit" optimistic-lock="none" schema="public" table="Produit">
+        <id name="idProduit" type="int">
+            <column name="idProduit"/>
+            <generator class="increment"/>
+        </id>
+        <property name="numero" type="string">
+            <column length="250" name="numero"/>
+        </property>
+        <property name="libelle" type="string">
+            <column length="500" name="libelle"/>
+        </property>
+        <property name="prix" type="double">
+            <column name="prix"/>
+        </property>
+        
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,17 @@
+127.0.0.1 - - [25/Jan/2024:23:25:29 +0000] "GET / HTTP/1.1" 404 681
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:23:25:44 +0000] "GET /PrimeFaceWebApp/ HTTP/1.1" 404 701
+127.0.0.1 - - [25/Jan/2024:23:27:00 +0000] "GET / HTTP/1.1" 404 681
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:23:27:03 +0000] "GET /PrimeFaceWebApp/ HTTP/1.1" 500 2692
+127.0.0.1 - - [25/Jan/2024:23:28:46 +0000] "GET / HTTP/1.1" 404 681
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:23:28:52 +0000] "GET /PrimeFaceWebApp/ HTTP/1.1" 200 3459
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:23:28:52 +0000] "GET /PrimeFaceWebApp/javax.faces.resource/core.js.xhtml?ln=primefaces&v=12.0.0&e=12.0.5 HTTP/1.1" 200 89155
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:23:28:52 +0000] "GET /PrimeFaceWebApp/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=12.0.0&e=12.0.5 HTTP/1.1" 200 146589
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:23:28:52 +0000] "GET /PrimeFaceWebApp/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=12.0.0&e=12.0.5 HTTP/1.1" 200 89756
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:23:28:52 +0000] "GET /PrimeFaceWebApp/javax.faces.resource/primeicons/primeicons.css.xhtml?ln=primefaces&v=12.0.0&e=12.0.5 HTTP/1.1" 200 11295
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:23:28:52 +0000] "GET /PrimeFaceWebApp/javax.faces.resource/theme.css.xhtml?ln=primefaces-saga&v=12.0.0&e=12.0.5 HTTP/1.1" 200 199176
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:23:28:52 +0000] "GET /PrimeFaceWebApp/javax.faces.resource/components.css.xhtml?ln=primefaces&v=12.0.0&e=12.0.5 HTTP/1.1" 200 108167
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:23:28:53 +0000] "GET /PrimeFaceWebApp/javax.faces.resource/components.js.xhtml?ln=primefaces&v=12.0.0&e=12.0.5 HTTP/1.1" 200 492154
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:23:30:21 +0000] "POST /PrimeFaceWebApp/login.xhtml HTTP/1.1" 200 3539
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:23:30:33 +0000] "POST /PrimeFaceWebApp/login.xhtml HTTP/1.1" 500 4034
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:23:36:10 +0000] "GET /PrimeFaceWebApp/ HTTP/1.1" 200 3458
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:23:36:18 +0000] "POST /PrimeFaceWebApp/login.xhtml HTTP/1.1" 200 3493

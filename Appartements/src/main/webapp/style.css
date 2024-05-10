@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+button
+{
+	display: block;
+	width: 95%;
+}
+td,th
+{
+	width: 20%;
+	height: 20%;
+	text-align: center;
+	margin: auto;
+}

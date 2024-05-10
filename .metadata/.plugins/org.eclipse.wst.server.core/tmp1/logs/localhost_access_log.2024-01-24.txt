@@ -1,0 +1,12 @@
+127.0.0.1 - - [24/Jan/2024:21:09:15 +0000] "GET / HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:21:09:16 +0000] "GET /PrimeFacesWebApp/ HTTP/1.1" 404 703
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:21:09:32 +0000] "GET /PrimeFacesWebApp/login.xhtml HTTP/1.1" 404 714
+127.0.0.1 - - [24/Jan/2024:21:10:36 +0000] "GET / HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:21:10:36 +0000] "GET /PrimeFacesWebApp/login.xhtml HTTP/1.1" 404 714
+127.0.0.1 - - [24/Jan/2024:21:12:32 +0000] "GET / HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:21:12:32 +0000] "GET /PrimeFacesWebApp/ HTTP/1.1" 404 703
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:21:13:12 +0000] "GET /PrimeFacesWebApp/src/main/webapp/login.xhtml HTTP/1.1" 404 742
+127.0.0.1 - - [24/Jan/2024:21:20:33 +0000] "GET / HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:21:20:34 +0000] "GET /PrimeFacesWebApp/Index HTTP/1.1" 404 708
+127.0.0.1 - - [24/Jan/2024:21:30:42 +0000] "GET / HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:21:30:43 +0000] "GET /PrimeFacesWebApp/Login HTTP/1.1" 404 708

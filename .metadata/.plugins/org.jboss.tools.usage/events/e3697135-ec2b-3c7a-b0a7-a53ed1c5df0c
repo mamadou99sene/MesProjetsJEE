@@ -1,0 +1,11 @@
+#Thu Mar 07 18:38:35 GMT 2024
+ct=jbt
+a=finishWizard
+c=0
+s=4
+d=1709836715601
+v=2.2.400
+vl=How many times the 'Finish' button pressed during the day
+cmp=usage
+cl=org.hibernate.eclipse.console.wizards.NewReverseEngineeringFileWizard
+l=Wizard class name

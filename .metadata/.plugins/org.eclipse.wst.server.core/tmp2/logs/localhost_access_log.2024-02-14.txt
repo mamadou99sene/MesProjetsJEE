@@ -1,0 +1,13 @@
+127.0.0.1 - - [14/Feb/2024:18:58:22 +0000] "GET / HTTP/1.1" 404 681
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:18:58:26 +0000] "GET /examenjee/CalculeServlet HTTP/1.1" 200 585
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:18:58:26 +0000] "GET /favicon.ico HTTP/1.1" 404 692
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:18:58:34 +0000] "POST /examenjee/CalculeServlet HTTP/1.1" 200 21
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:18:58:37 +0000] "GET /examenjee/CalculeServlet HTTP/1.1" 200 585
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:18:58:45 +0000] "POST /examenjee/CalculeServlet HTTP/1.1" 200 21
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:18:58:48 +0000] "GET /examenjee/CalculeServlet HTTP/1.1" 200 585
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:18:59:09 +0000] "POST /examenjee/CalculeServlet HTTP/1.1" 200 186
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:18:59:30 +0000] "GET /examenjee/CalculeServlet HTTP/1.1" 200 585
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:18:59:33 +0000] "POST /examenjee/CalculeServlet HTTP/1.1" 200 21
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:18:59:35 +0000] "GET /examenjee/CalculeServlet HTTP/1.1" 200 585
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:18:59:37 +0000] "POST /examenjee/CalculeServlet HTTP/1.1" 200 21
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:18:59:39 +0000] "GET /examenjee/CalculeServlet HTTP/1.1" 200 585

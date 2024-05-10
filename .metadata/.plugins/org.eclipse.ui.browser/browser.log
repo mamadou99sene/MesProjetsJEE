@@ -1,0 +1,1312 @@
+
+août 20, 2022 13:45:33.882 NEW SESSION
+août 20, 2022 13:45:33.882 [13456:13460:0820/134533.878:ERROR:device_event_log_impl.cc(214)] [13:45:33.878] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+août 20, 2022 13:46:30.108 [13456:13568:0820/134630.107:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+août 21, 2022 14:42:31.532 NEW SESSION
+août 21, 2022 14:42:31.533 [12460:3224:0821/144231.529:ERROR:device_event_log_impl.cc(214)] [14:42:31.529] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+août 21, 2022 14:43:28.88 [12460:3716:0821/144328.087:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+août 21, 2022 16:01:41.603 NEW SESSION
+août 21, 2022 16:01:41.604 [12716:1688:0821/160141.599:ERROR:device_event_log_impl.cc(214)] [16:01:41.599] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+août 21, 2022 16:02:39.178 [12716:13728:0821/160239.177:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+août 23, 2022 01:53:21.744 NEW SESSION
+août 23, 2022 01:53:21.745 [14124:8060:0823/015321.738:ERROR:device_event_log_impl.cc(214)] [01:53:21.738] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+août 23, 2022 01:53:21.747 [14124:8060:0823/015321.740:ERROR:device_event_log_impl.cc(214)] [01:53:21.740] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+août 23, 2022 01:54:19.147 [14124:2152:0823/015419.146:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+août 23, 2022 02:01:12.49 [16460:6068:0823/020112.048:ERROR:device_event_log_impl.cc(214)] [02:01:12.048] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+août 23, 2022 02:02:08.654 [16460:17004:0823/020208.653:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+août 31, 2022 16:28:14.729 NEW SESSION
+août 31, 2022 16:28:14.730 [3336:22676:0831/162814.724:ERROR:device_event_log_impl.cc(214)] [16:28:14.724] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+août 31, 2022 16:29:10.748 [3336:22492:0831/162910.747:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+sept. 02, 2022 15:05:46.873 NEW SESSION
+sept. 02, 2022 15:05:46.873 [2612:9760:0902/150546.868:ERROR:device_event_log_impl.cc(214)] [15:05:46.868] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+sept. 02, 2022 15:06:44.420 [2612:17292:0902/150644.419:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+sept. 02, 2022 15:18:39.825 [17552:13688:0902/151839.824:ERROR:device_event_log_impl.cc(214)] [15:18:39.824] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+sept. 02, 2022 15:19:36.509 [17552:3024:0902/151936.508:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+sept. 03, 2022 12:14:40.648 NEW SESSION
+sept. 03, 2022 12:14:40.649 [19112:16408:0903/121440.644:ERROR:device_event_log_impl.cc(214)] [12:14:40.644] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+sept. 03, 2022 12:15:38.215 [19112:8364:0903/121538.215:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+sept. 03, 2022 15:57:16.489 [19112:16408:0903/155716.488:ERROR:device_event_log_impl.cc(214)] [15:57:16.488] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+sept. 03, 2022 16:00:21.727 [19112:16408:0903/160021.726:ERROR:CONSOLE(1)] "SyntaxError: Unexpected token 'H', "HTTP/1.1 4"... is not valid JSON", source: devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js (1)
+sept. 03, 2022 17:15:38.217 [19112:25068:0903/171538.216:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+sept. 04, 2022 15:58:51.765 NEW SESSION
+sept. 04, 2022 15:58:51.765 [19656:18856:0904/155851.760:ERROR:device_event_log_impl.cc(214)] [15:58:51.760] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+sept. 04, 2022 15:59:49.304 [19656:21392:0904/155949.303:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+sept. 05, 2022 17:10:50.851 NEW SESSION
+sept. 05, 2022 17:10:50.851 [24636:14492:0905/171050.847:ERROR:device_event_log_impl.cc(214)] [17:10:50.847] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+sept. 05, 2022 17:11:47.479 [24636:12236:0905/171147.479:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+sept. 05, 2022 17:19:02.295 [14288:16848:0905/171902.294:ERROR:device_event_log_impl.cc(214)] [17:19:02.295] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+sept. 05, 2022 17:19:59.870 [14288:7736:0905/171959.870:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+sept. 21, 2022 11:08:08.278 NEW SESSION
+sept. 21, 2022 11:08:08.278 [7156:12772:0921/110808.269:ERROR:device_event_log_impl.cc(214)] [11:08:08.269] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+sept. 21, 2022 11:09:04.455 [7156:11004:0921/110904.454:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+sept. 21, 2022 11:19:44.246 [7156:12772:0921/111944.245:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+sept. 21, 2022 11:20:13.772 [7156:12772:0921/112013.771:ERROR:command_buffer_proxy_impl.cc(325)] GPU state invalid after WaitForGetOffsetInRange.
+sept. 21, 2022 11:20:13.782 [7156:12772:0921/112013.782:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=1
+
+sept. 21, 2022 11:21:43.213 NEW SESSION
+sept. 21, 2022 11:21:43.215 [15368:24944:0921/112143.210:ERROR:device_event_log_impl.cc(214)] [11:21:43.209] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+sept. 21, 2022 11:22:37.969 [15368:19424:0921/112237.968:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+sept. 21, 2022 15:35:24.32 NEW SESSION
+sept. 21, 2022 15:35:24.32 [68:14328:0921/153524.025:ERROR:device_event_log_impl.cc(214)] [15:35:24.025] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+sept. 21, 2022 15:36:19.315 [68:11920:0921/153619.314:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+sept. 28, 2022 13:13:30.426 NEW SESSION
+sept. 28, 2022 13:13:30.426 [1624:11312:0928/131330.421:ERROR:device_event_log_impl.cc(214)] [13:13:30.421] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+sept. 28, 2022 13:14:27.826 [1624:1152:0928/131427.825:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+sept. 28, 2022 13:19:40.254 [3128:17612:0928/131940.253:ERROR:device_event_log_impl.cc(214)] [13:19:40.253] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+sept. 28, 2022 13:20:37.841 [3128:17752:0928/132037.840:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+sept. 28, 2022 16:10:23.657 NEW SESSION
+sept. 28, 2022 16:10:23.657 [11808:12620:0928/161023.652:ERROR:device_event_log_impl.cc(214)] [16:10:23.652] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+sept. 28, 2022 16:11:21.99 [11808:17968:0928/161121.098:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+sept. 29, 2022 10:41:08.636 NEW SESSION
+sept. 29, 2022 10:41:08.636 [1036:10068:0929/104108.631:ERROR:device_event_log_impl.cc(214)] [10:41:08.631] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+sept. 29, 2022 10:42:06.02 [1036:11504:0929/104206.001:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+sept. 29, 2022 15:42:06.04 [1036:11504:0929/154206.003:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+oct. 01, 2022 14:16:44.313 NEW SESSION
+oct. 01, 2022 14:16:44.314 [12852:12724:1001/141644.307:ERROR:device_event_log_impl.cc(214)] [14:16:44.307] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+oct. 01, 2022 14:55:43.675 [8332:2680:1001/145543.673:ERROR:device_event_log_impl.cc(214)] [14:55:43.673] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+oct. 01, 2022 14:56:40.635 [8332:14884:1001/145640.634:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+oct. 02, 2022 15:30:40.418 NEW SESSION
+oct. 02, 2022 15:30:40.419 [18128:17884:1002/153040.413:ERROR:device_event_log_impl.cc(214)] [15:30:40.413] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+oct. 02, 2022 15:31:36.278 [18128:11564:1002/153136.277:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+oct. 02, 2022 21:14:49.981 NEW SESSION
+oct. 02, 2022 21:14:49.981 [11472:12948:1002/211449.976:ERROR:device_event_log_impl.cc(214)] [21:14:49.975] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+oct. 02, 2022 21:15:46.629 [11472:13980:1002/211546.628:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+oct. 11, 2022 21:18:24.868 NEW SESSION
+oct. 11, 2022 21:18:24.868 [5612:5708:1011/211824.861:ERROR:device_event_log_impl.cc(214)] [21:18:24.860] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+
+oct. 16, 2022 10:53:05.665 NEW SESSION
+oct. 16, 2022 10:53:05.666 [2804:20800:1016/105305.658:ERROR:device_event_log_impl.cc(214)] [10:53:05.658] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+oct. 16, 2022 10:53:26.741 [2804:14984:1016/105326.740:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 16, 2022 10:54:02.506 [2804:11536:1016/105402.504:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+oct. 16, 2022 10:54:59.796 [2804:14984:1016/105459.796:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 16, 2022 11:13:31.82 [2804:14984:1016/111331.082:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 16, 2022 11:22:49.98 [2804:14984:1016/112249.097:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 16, 2022 11:23:36.07 [2804:14984:1016/112336.006:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 16, 2022 11:24:51.882 [2804:14984:1016/112451.881:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 16, 2022 11:54:54.663 [2804:14984:1016/115454.663:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 16, 2022 12:02:24.375 [2804:14984:1016/120224.375:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 16, 2022 12:14:43.29 [2804:14984:1016/121443.028:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 16, 2022 12:35:32.735 [2804:14984:1016/123532.558:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 16, 2022 12:36:20.418 [2804:14984:1016/123620.417:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 16, 2022 12:37:45.09 [2804:14984:1016/123745.009:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 16, 2022 12:39:37.622 [2804:14984:1016/123937.621:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 16, 2022 12:43:17.374 [2804:14984:1016/124317.374:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+oct. 16, 2022 13:05:29.291 [2804:14984:1016/130529.290:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+oct. 16, 2022 13:06:04.40 [2804:14984:1016/130604.039:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+oct. 16, 2022 13:07:16.850 [2804:14984:1016/130716.850:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 16, 2022 13:09:48.628 [2804:14984:1016/130948.627:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 16, 2022 13:28:52.61 [2804:14984:1016/132852.060:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 16, 2022 13:42:47.787 [2804:14984:1016/134247.786:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+
+oct. 16, 2022 17:14:57.192 NEW SESSION
+oct. 16, 2022 17:14:57.193 [19088:24200:1016/171457.190:ERROR:device_event_log_impl.cc(214)] [17:14:57.191] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+oct. 16, 2022 17:15:18.308 [19088:14412:1016/171518.307:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 16, 2022 17:15:53.148 [19088:7416:1016/171553.148:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+oct. 17, 2022 13:00:41.837 NEW SESSION
+oct. 17, 2022 13:00:41.837 [20628:5988:1017/130041.834:ERROR:device_event_log_impl.cc(214)] [13:00:41.833] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+oct. 17, 2022 13:01:02.878 [20628:15916:1017/130102.878:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+oct. 17, 2022 13:01:38.757 [20628:11356:1017/130138.756:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+oct. 17, 2022 13:30:17.188 [20628:15916:1017/133017.186:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+
+oct. 20, 2022 15:55:28.241 NEW SESSION
+oct. 20, 2022 15:55:28.242 [6992:7484:1020/155528.235:ERROR:device_event_log_impl.cc(214)] [15:55:28.234] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+oct. 20, 2022 15:55:28.309 [6992:1924:1020/155528.309:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+oct. 20, 2022 15:55:50.17 [6992:1924:1020/155550.016:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+oct. 20, 2022 15:56:25.709 [6992:8024:1020/155625.708:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+oct. 20, 2022 15:56:39.786 [6992:1924:1020/155639.785:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+oct. 20, 2022 15:58:02.569 [6992:1924:1020/155802.568:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+oct. 20, 2022 16:00:47.699 [6992:1924:1020/160047.699:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+oct. 20, 2022 16:03:41.315 [6992:1924:1020/160341.315:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+oct. 20, 2022 16:04:04.968 [6992:1924:1020/160404.967:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+
+oct. 31, 2022 21:44:21.856 NEW SESSION
+oct. 31, 2022 21:44:21.856 [12408:28068:1031/214421.850:ERROR:device_event_log_impl.cc(215)] [21:44:21.851] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+
+nov. 10, 2022 21:38:24.299 NEW SESSION
+nov. 10, 2022 21:38:24.299 [32368:4052:1110/213824.295:ERROR:device_event_log_impl.cc(215)] [21:38:24.295] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 10, 2022 21:38:45.428 [32368:29432:1110/213845.428:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 10, 2022 21:39:19.283 [32368:20740:1110/213919.282:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+nov. 10, 2022 23:28:48.788 [32368:29432:1110/232848.787:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 10, 2022 23:31:01.777 [32368:29432:1110/233101.776:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 10, 2022 23:38:43.729 [32368:29432:1110/233843.728:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 10, 2022 23:39:48.772 [32368:29432:1110/233948.772:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+
+nov. 11, 2022 08:49:47.191 NEW SESSION
+nov. 11, 2022 08:49:47.191 [32160:25848:1111/084947.186:ERROR:device_event_log_impl.cc(215)] [08:49:47.186] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 11, 2022 08:50:08.275 [32160:23688:1111/085008.275:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 11, 2022 08:50:44.469 [32160:20596:1111/085044.468:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+nov. 11, 2022 10:35:59.241 [32160:23688:1111/103559.241:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -7
+nov. 11, 2022 10:35:59.682 [32160:23688:1111/103559.682:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+nov. 11, 2022 10:36:01.706 [32160:23688:1111/103601.706:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+nov. 11, 2022 10:36:04.141 [32160:23688:1111/103604.140:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+nov. 11, 2022 10:36:35.216 [32160:23688:1111/103635.216:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+
+nov. 12, 2022 14:26:11.673 NEW SESSION
+nov. 12, 2022 14:26:11.674 [28528:8328:1112/142611.668:ERROR:device_event_log_impl.cc(215)] [14:26:11.668] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 12, 2022 14:27:08.849 [28528:23636:1112/142708.848:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+nov. 12, 2022 23:48:11.743 NEW SESSION
+nov. 12, 2022 23:48:11.743 [9036:2644:1112/234811.738:ERROR:device_event_log_impl.cc(215)] [23:48:11.738] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 12, 2022 23:48:32.824 [9036:2324:1112/234832.824:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 12, 2022 23:49:07.687 [9036:19676:1112/234907.686:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+nov. 13, 2022 22:16:30.705 NEW SESSION
+nov. 13, 2022 22:16:30.705 [13896:29692:1113/221630.697:ERROR:device_event_log_impl.cc(215)] [22:16:30.697] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 13, 2022 22:16:51.518 [13896:17840:1113/221651.517:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+nov. 13, 2022 22:16:52.26 [13896:6176:1113/221652.026:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 22:17:27.883 [13896:30040:1113/221727.882:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+nov. 13, 2022 22:22:10.924 [13896:6176:1113/222210.923:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 22:27:40.787 [13896:6176:1113/222740.786:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 22:29:35.84 [13896:6176:1113/222935.084:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 22:34:40.269 [13896:6176:1113/223440.269:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 22:37:04.157 [13896:6176:1113/223704.156:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 22:42:17.89 [13896:6176:1113/224217.088:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 22:42:31.712 [13896:6176:1113/224231.711:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+nov. 13, 2022 22:42:58.238 [13896:6176:1113/224258.238:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 22:47:03.64 [13896:6176:1113/224703.063:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 22:52:10.911 [13896:6176:1113/225210.911:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 22:52:47.708 [13896:6176:1113/225247.708:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 22:53:54.773 [13896:6176:1113/225354.773:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 22:54:59.758 [13896:6176:1113/225459.757:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 23:00:10.924 [13896:6176:1113/230010.924:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 23:05:42.84 [13896:6176:1113/230542.083:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 23:21:17.404 [13896:6176:1113/232117.402:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 23:50:15.867 [13896:6176:1113/235015.866:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 23:55:40.832 [13896:6176:1113/235540.832:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 13, 2022 23:56:45.879 [13896:6176:1113/235645.879:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 14, 2022 24:02:11.327 [13896:6176:1114/000211.327:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+
+nov. 14, 2022 11:08:23.232 NEW SESSION
+nov. 14, 2022 11:08:23.233 [668:5712:1114/110823.227:ERROR:device_event_log_impl.cc(215)] [11:08:23.226] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 14, 2022 11:08:44.306 [668:12032:1114/110844.305:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 14, 2022 11:09:20.294 [668:20704:1114/110920.293:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+nov. 15, 2022 10:32:49.314 NEW SESSION
+nov. 15, 2022 10:32:49.315 [4424:2444:1115/103249.307:ERROR:device_event_log_impl.cc(215)] [10:32:49.307] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 15, 2022 10:33:10.377 [4424:33376:1115/103310.376:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 15, 2022 10:33:46.46 [4424:20616:1115/103346.045:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+nov. 15, 2022 12:30:41.991 [4424:33376:1115/123041.989:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 15, 2022 12:55:08.745 [4424:2444:1115/125508.744:ERROR:interface_endpoint_client.cc(690)] Message 5 rejected by interface blink.mojom.WidgetHost
+nov. 15, 2022 13:03:25.139 [4424:33376:1115/130325.138:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+nov. 15, 2022 13:03:28.957 [4424:33376:1115/130328.956:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+nov. 15, 2022 13:03:52.198 [4424:33376:1115/130352.198:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 15, 2022 13:13:05.487 [4424:33376:1115/131305.487:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+nov. 15, 2022 14:01:51.427 [4424:33376:1115/140151.427:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -7
+nov. 15, 2022 14:01:53.71 [4424:33376:1115/140153.071:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+nov. 15, 2022 14:02:18.566 [4424:33376:1115/140218.566:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+
+nov. 15, 2022 14:39:11.554 NEW SESSION
+nov. 15, 2022 14:39:11.554 [6556:16044:1115/143911.547:ERROR:device_event_log_impl.cc(215)] [14:39:11.548] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 15, 2022 14:39:32.619 [6556:4760:1115/143932.618:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 15, 2022 14:40:07.995 [6556:27624:1115/144007.994:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+nov. 15, 2022 14:51:36.795 [6556:4760:1115/145136.794:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 15, 2022 14:57:03.266 [6556:4760:1115/145703.265:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 15, 2022 15:30:33.154 [6556:4760:1115/153033.154:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+
+nov. 16, 2022 17:25:08.736 NEW SESSION
+nov. 16, 2022 17:25:08.737 [8352:34156:1116/172508.731:ERROR:device_event_log_impl.cc(215)] [17:25:08.731] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 16, 2022 17:25:29.866 [8352:25544:1116/172529.866:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 16, 2022 17:26:05.978 [8352:3112:1116/172605.977:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+nov. 16, 2022 20:55:22.976 NEW SESSION
+nov. 16, 2022 20:55:22.976 [33324:31952:1116/205522.973:ERROR:device_event_log_impl.cc(215)] [20:55:22.973] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 16, 2022 20:55:44.39 [33324:2612:1116/205544.039:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 16, 2022 20:56:20.454 [33324:18460:1116/205620.453:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+nov. 16, 2022 20:59:27.85 [33324:2612:1116/205927.085:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+nov. 16, 2022 21:05:59.439 [33324:2612:1116/210559.439:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 16, 2022 21:19:47.209 [33324:2612:1116/211947.208:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 16, 2022 21:24:16.753 [33324:2612:1116/212416.753:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 16, 2022 21:26:05.141 [33324:2612:1116/212605.139:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 16, 2022 21:28:13.223 [33324:2612:1116/212813.222:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+
+nov. 17, 2022 10:20:26.682 NEW SESSION
+nov. 17, 2022 10:20:26.682 [22592:17304:1117/102026.674:ERROR:device_event_log_impl.cc(215)] [10:20:26.674] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 17, 2022 10:20:47.751 [22592:21812:1117/102047.750:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 17, 2022 10:21:24.65 [22592:33084:1117/102124.064:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+nov. 17, 2022 15:41:02.762 NEW SESSION
+nov. 17, 2022 15:41:02.762 [14612:17260:1117/154102.760:ERROR:device_event_log_impl.cc(215)] [15:41:02.760] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 17, 2022 15:41:23.804 [14612:22016:1117/154123.804:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 17, 2022 15:41:59.887 [14612:10228:1117/154159.886:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+nov. 17, 2022 16:18:18.599 NEW SESSION
+nov. 17, 2022 16:18:18.600 [33292:35712:1117/161818.595:ERROR:device_event_log_impl.cc(215)] [16:18:18.595] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 17, 2022 16:18:39.657 [33292:23368:1117/161839.657:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 17, 2022 16:19:29.436 [1780:16172:1117/161929.435:ERROR:device_event_log_impl.cc(215)] [16:19:29.435] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 17, 2022 16:20:02.283 [28544:21196:1117/162002.283:ERROR:device_event_log_impl.cc(215)] [16:20:02.283] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 17, 2022 16:20:23.350 [28544:35248:1117/162023.350:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 17, 2022 16:20:59.903 [28544:10048:1117/162059.902:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+nov. 18, 2022 22:41:23.265 NEW SESSION
+nov. 18, 2022 22:41:23.265 [23272:28224:1118/224123.260:ERROR:device_event_log_impl.cc(215)] [22:41:23.259] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 18, 2022 22:41:44.445 [23272:32252:1118/224144.444:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 18, 2022 22:42:18.882 [23272:18892:1118/224218.882:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+nov. 18, 2022 22:50:49.560 [23272:32252:1118/225049.559:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+
+nov. 18, 2022 23:54:31.313 NEW SESSION
+nov. 18, 2022 23:54:31.313 [13808:14816:1118/235431.309:ERROR:device_event_log_impl.cc(215)] [23:54:31.309] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 18, 2022 23:54:52.459 [13808:32188:1118/235452.458:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 18, 2022 23:55:28.744 [13808:14360:1118/235528.743:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+nov. 25, 2022 21:07:23.275 NEW SESSION
+nov. 25, 2022 21:07:23.276 [45148:23120:1125/210723.271:ERROR:device_event_log_impl.cc(215)] [21:07:23.270] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 25, 2022 21:07:44.364 [45148:36608:1125/210744.363:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 25, 2022 21:08:20.430 [45148:33456:1125/210820.429:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+nov. 25, 2022 22:12:55.103 [28224:6572:1125/221255.102:ERROR:device_event_log_impl.cc(215)] [22:12:55.102] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+nov. 25, 2022 22:13:16.362 [28224:37640:1125/221316.362:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+nov. 25, 2022 22:13:51.735 [28224:19128:1125/221351.734:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+nov. 25, 2022 22:29:47.944 [28224:37640:1125/222947.943:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -118
+
+déc. 04, 2022 23:14:45.596 NEW SESSION
+déc. 04, 2022 23:14:45.596 [10952:12916:1204/231445.593:ERROR:device_event_log_impl.cc(215)] [23:14:45.592] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 04, 2022 23:15:06.821 [10952:2020:1204/231506.821:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 04, 2022 23:15:41.420 [10952:9648:1204/231541.420:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 04, 2022 23:51:40.881 [10952:2020:1204/235140.881:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+déc. 04, 2022 23:56:45.981 [10952:2020:1204/235645.981:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -7
+déc. 04, 2022 23:57:12.997 [10952:2020:1204/235712.997:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+
+déc. 05, 2022 21:33:59.897 NEW SESSION
+déc. 05, 2022 21:33:59.897 [10092:10140:1205/213359.892:ERROR:device_event_log_impl.cc(215)] [21:33:59.892] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 05, 2022 21:33:59.985 [10092:13792:1205/213359.985:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 05, 2022 21:34:27.885 [10092:13792:1205/213427.884:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 05, 2022 21:34:57.578 [10092:8072:1205/213457.577:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 05, 2022 21:35:15.64 [10092:13792:1205/213515.063:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 05, 2022 21:36:38.124 [10092:13792:1205/213638.123:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 05, 2022 21:39:50.752 [10092:13792:1205/213950.752:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 05, 2022 21:47:13.617 [10092:13792:1205/214713.616:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 05, 2022 21:50:51.969 [10092:13792:1205/215051.968:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 05, 2022 21:52:06.708 [10092:13792:1205/215206.707:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 05, 2022 21:53:01.430 [10092:13792:1205/215301.429:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -103
+déc. 05, 2022 21:53:02.347 [10092:10140:1205/215302.347:ERROR:device_event_log_impl.cc(215)] [21:53:02.346] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+déc. 05, 2022 21:53:03.494 [10092:13792:1205/215303.494:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 05, 2022 21:53:57.294 [10092:13792:1205/215357.293:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 05, 2022 21:56:08.963 [10092:13792:1205/215608.963:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 05, 2022 23:43:55.487 [10092:13792:1205/234355.484:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+déc. 05, 2022 23:47:40.192 [10092:13792:1205/234740.192:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 06, 2022 24:16:24.663 [10092:10140:1206/001624.663:ERROR:CONSOLE(1)] "Request Storage.getStorageKeyForFrame failed. {"code":-32602,"message":"Frame tree node for given frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+
+déc. 07, 2022 14:56:31.912 NEW SESSION
+déc. 07, 2022 14:56:31.912 [3136:16244:1207/145631.908:ERROR:device_event_log_impl.cc(215)] [14:56:31.907] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 07, 2022 14:56:53.65 [3136:12432:1207/145653.064:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 07, 2022 14:57:28.563 [3136:2284:1207/145728.562:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 07, 2022 15:47:04.752 [3136:12432:1207/154704.752:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 07, 2022 16:06:51.930 [3136:12432:1207/160651.930:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 07, 2022 16:12:32.208 [3136:12432:1207/161232.207:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 07, 2022 16:28:23.116 [3136:12432:1207/162823.116:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+
+déc. 07, 2022 20:53:17.582 NEW SESSION
+déc. 07, 2022 20:53:17.582 [14936:10380:1207/205317.578:ERROR:device_event_log_impl.cc(215)] [20:53:17.578] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 07, 2022 20:53:17.651 [14936:7332:1207/205317.650:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 07, 2022 20:53:23.340 [14936:7332:1207/205323.340:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 07, 2022 20:54:14.299 [14936:7332:1207/205414.298:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 07, 2022 20:54:14.322 [14936:8272:1207/205414.322:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 07, 2022 20:55:53.644 [14936:7332:1207/205553.643:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 07, 2022 20:58:41.621 [14936:7332:1207/205841.621:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 07, 2022 21:05:49.916 [14936:7332:1207/210549.915:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 07, 2022 21:11:04.977 [14936:7332:1207/211104.976:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 07, 2022 21:24:46.548 [14936:7332:1207/212446.548:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 07, 2022 22:38:46.393 [14936:7332:1207/223846.392:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 07, 2022 22:39:38.516 [14936:7332:1207/223938.515:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 07, 2022 23:34:22.46 [14936:7332:1207/233422.045:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+
+déc. 08, 2022 11:01:20.885 NEW SESSION
+déc. 08, 2022 11:01:20.885 [15120:8728:1208/110120.879:ERROR:device_event_log_impl.cc(215)] [11:01:20.879] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 08, 2022 11:01:42.107 [15120:4656:1208/110142.106:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 11:02:17.515 [15120:15668:1208/110217.514:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 08, 2022 11:16:35.880 [15120:4656:1208/111635.880:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 11:18:19.224 [15120:4656:1208/111819.224:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 11:42:32.44 [15120:4656:1208/114232.044:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+déc. 08, 2022 11:45:49.890 [15120:4656:1208/114549.890:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 11:56:31.71 [15120:4656:1208/115631.071:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 12:01:45.249 [15120:4656:1208/120145.249:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 12:22:05.96 [15120:4656:1208/122205.096:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 12:42:52.634 [15120:4656:1208/124252.633:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 12:48:59.637 [15120:4656:1208/124859.636:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 13:03:56.459 [15120:4656:1208/130356.459:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 13:04:57.951 [15120:4656:1208/130457.950:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 14:16:42.70 [15120:4656:1208/141642.069:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 14:31:26.271 [15120:4656:1208/143126.271:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+déc. 08, 2022 14:31:48.356 [15120:4656:1208/143148.355:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 14:32:37.858 [15120:4656:1208/143237.857:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 14:33:43.552 [15120:4656:1208/143343.551:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 14:56:08.88 [15120:4656:1208/145608.088:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 15:54:27.939 [15120:8728:1208/155427.937:ERROR:interface_endpoint_client.cc(694)] Message 5 rejected by interface blink.mojom.WidgetHost
+déc. 08, 2022 16:02:17.502 [15120:9192:1208/160217.502:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 08, 2022 16:12:08.905 [15120:4656:1208/161208.905:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 16:13:00.662 [15120:4656:1208/161300.662:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 16:16:18.151 [15120:4656:1208/161618.151:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 16:38:14.145 [15120:4656:1208/163814.144:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 17:05:45.921 [15120:4656:1208/170545.920:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 17:10:52.802 [15120:4656:1208/171052.802:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 17:12:38.144 [15120:4656:1208/171238.143:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 17:19:37.551 [15120:4656:1208/171937.551:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 17:25:59.87 [15120:4656:1208/172559.086:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 17:30:06.783 [15120:4656:1208/173006.782:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+
+déc. 08, 2022 22:31:24.737 NEW SESSION
+déc. 08, 2022 22:31:24.737 [16504:10856:1208/223124.733:ERROR:device_event_log_impl.cc(215)] [22:31:24.733] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 08, 2022 22:31:45.846 [16504:11600:1208/223145.845:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 22:32:21.837 [16504:12568:1208/223221.837:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 08, 2022 22:51:12.687 [16504:11600:1208/225112.686:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 22:57:09.210 [16504:10856:1208/225709.210:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:10.34 [16504:10856:1208/225710.033:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:10.763 [16504:10856:1208/225710.761:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:10.900 [16504:10856:1208/225710.900:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:12.132 [16504:10856:1208/225712.132:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:12.422 [16504:10856:1208/225712.421:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:12.595 [16504:10856:1208/225712.594:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:13.501 [16504:10856:1208/225713.500:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:14.193 [16504:10856:1208/225714.193:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:14.645 [16504:10856:1208/225714.644:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:14.801 [16504:10856:1208/225714.800:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:15.20 [16504:10856:1208/225715.020:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:15.432 [16504:10856:1208/225715.431:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:15.702 [16504:10856:1208/225715.702:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:16.83 [16504:10856:1208/225716.082:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:16.276 [16504:10856:1208/225716.276:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:16.579 [16504:10856:1208/225716.578:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:17.58 [16504:10856:1208/225717.057:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:17.844 [16504:10856:1208/225717.844:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:18.468 [16504:10856:1208/225718.467:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:19.171 [16504:10856:1208/225719.170:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:19.662 [16504:10856:1208/225719.661:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:20.117 [16504:10856:1208/225720.116:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:20.836 [16504:10856:1208/225720.835:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:21.893 [16504:10856:1208/225721.892:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:22.55 [16504:10856:1208/225722.055:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:22.364 [16504:10856:1208/225722.363:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:23.16 [16504:10856:1208/225723.015:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:23.420 [16504:10856:1208/225723.420:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:23.579 [16504:10856:1208/225723.578:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:23.958 [16504:10856:1208/225723.957:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:24.733 [16504:10856:1208/225724.732:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:25.741 [16504:10856:1208/225725.741:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:26.301 [16504:10856:1208/225726.300:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:26.405 [16504:10856:1208/225726.403:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:26.509 [16504:10856:1208/225726.508:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:26.629 [16504:10856:1208/225726.628:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:26.754 [16504:10856:1208/225726.754:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:27.205 [16504:10856:1208/225727.204:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:27.791 [16504:10856:1208/225727.790:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:28.57 [16504:10856:1208/225728.056:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:28.812 [16504:10856:1208/225728.812:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:29.522 [16504:10856:1208/225729.521:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:30.271 [16504:10856:1208/225730.271:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:30.636 [16504:10856:1208/225730.635:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:30.829 [16504:10856:1208/225730.828:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:31.500 [16504:10856:1208/225731.499:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:33.941 [16504:10856:1208/225733.940:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:34.92 [16504:10856:1208/225734.092:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:34.224 [16504:10856:1208/225734.224:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:36.159 [16504:10856:1208/225736.157:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:37.208 [16504:10856:1208/225737.206:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:41.76 [16504:10856:1208/225741.076:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:43.333 [16504:10856:1208/225743.333:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:44.179 [16504:10856:1208/225744.179:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:44.317 [16504:10856:1208/225744.316:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:45.820 [16504:10856:1208/225745.819:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:46.790 [16504:10856:1208/225746.789:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:46.919 [16504:10856:1208/225746.919:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:47.628 [16504:10856:1208/225747.627:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:48.16 [16504:10856:1208/225748.015:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:48.128 [16504:10856:1208/225748.128:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:48.714 [16504:10856:1208/225748.714:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:49.797 [16504:10856:1208/225749.796:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:49.967 [16504:10856:1208/225749.967:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:50.196 [16504:10856:1208/225750.195:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:50.959 [16504:10856:1208/225750.958:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:51.725 [16504:10856:1208/225751.722:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:54.255 [16504:10856:1208/225754.253:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:57:54.425 [16504:10856:1208/225754.424:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.126 s for activation_start 0.384042 s
+déc. 08, 2022 22:58:03.23 [16504:11600:1208/225803.022:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 08, 2022 22:58:44.386 [16504:11600:1208/225844.384:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 08, 2022 22:59:40.712 [16504:11600:1208/225940.711:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 23:01:33.184 [16504:11600:1208/230133.183:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 23:36:40.708 [16504:11600:1208/233640.708:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 23:39:42.547 [16504:11600:1208/233942.546:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 08, 2022 23:42:15.655 [16504:11600:1208/234215.654:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 23:44:06.655 [16504:11600:1208/234406.654:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 23:48:56.136 [16504:11600:1208/234856.135:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 08, 2022 23:56:26.889 [16504:11600:1208/235626.888:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 24:46:01.196 [16504:11600:1209/004601.196:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 24:52:07.140 [16504:11600:1209/005207.140:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+
+déc. 09, 2022 11:16:17.592 NEW SESSION
+déc. 09, 2022 11:16:17.592 [13736:1128:1209/111617.585:ERROR:device_event_log_impl.cc(215)] [11:16:17.586] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 09, 2022 11:16:38.700 [13736:4912:1209/111638.699:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 11:16:42.642 [13736:1128:1209/111642.642:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.177 s for activation_start 0.155706 s
+déc. 09, 2022 11:16:43.700 [13736:1128:1209/111643.699:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.177 s for activation_start 0.155706 s
+déc. 09, 2022 11:16:43.995 [13736:1128:1209/111643.994:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.177 s for activation_start 0.155706 s
+déc. 09, 2022 11:17:14.158 [13736:12628:1209/111714.157:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 09, 2022 11:41:03.242 [13736:4912:1209/114103.241:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 11:46:24.132 [13736:4912:1209/114624.132:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 11:58:10.100 [13736:1128:1209/115810.099:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.405 s for activation_start 0.386493 s
+déc. 09, 2022 11:58:11.143 [13736:1128:1209/115811.142:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.405 s for activation_start 0.386493 s
+déc. 09, 2022 11:58:13.808 [13736:1128:1209/115813.808:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.405 s for activation_start 0.386493 s
+déc. 09, 2022 12:02:32.369 [13736:1128:1209/120232.368:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.405 s for activation_start 0.386493 s
+déc. 09, 2022 12:02:32.523 [13736:1128:1209/120232.522:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.405 s for activation_start 0.386493 s
+déc. 09, 2022 12:02:34.987 [13736:1128:1209/120234.986:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.405 s for activation_start 0.386493 s
+déc. 09, 2022 12:02:35.710 [13736:1128:1209/120235.710:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.405 s for activation_start 0.386493 s
+déc. 09, 2022 12:02:39.321 [13736:1128:1209/120239.321:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.405 s for activation_start 0.386493 s
+déc. 09, 2022 12:08:39.112 [13736:4912:1209/120839.111:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 12:13:04.366 [13736:4912:1209/121304.365:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 12:13:53.788 [13736:1128:1209/121353.788:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.405 s for activation_start 0.386493 s
+déc. 09, 2022 12:13:53.945 [13736:1128:1209/121353.945:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.405 s for activation_start 0.386493 s
+déc. 09, 2022 12:14:58.777 [13736:4912:1209/121458.777:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 12:16:40.643 [13736:4912:1209/121640.643:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 12:45:43.174 [13736:4912:1209/124543.173:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 13:00:01.127 [13736:4912:1209/130001.127:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 09, 2022 13:01:29.778 [13736:4912:1209/130129.778:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 13:21:16.272 [13736:4912:1209/132116.271:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 13:24:09.833 [13736:4912:1209/132409.833:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+déc. 09, 2022 15:21:39.446 [13736:4912:1209/152139.446:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -7
+déc. 09, 2022 15:21:39.599 [13736:4912:1209/152139.599:ERROR:checkin_request.cc(240)] Check-in request got net error: -21
+déc. 09, 2022 15:21:39.601 [13736:6096:1209/152139.601:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+déc. 09, 2022 15:22:08.502 [13736:4912:1209/152208.502:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 15:27:24.882 [13736:4912:1209/152724.882:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 15:37:16.739 [13736:4912:1209/153716.738:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 15:45:44.756 [13736:4912:1209/154544.756:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 15:49:37.808 [13736:4912:1209/154937.808:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 15:51:11.224 [13736:4912:1209/155111.223:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 16:13:40.397 [13736:4912:1209/161340.396:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 16:16:26.701 [13736:4912:1209/161626.700:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 16:17:14.158 [13736:12016:1209/161714.158:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+déc. 09, 2022 21:11:39.489 NEW SESSION
+déc. 09, 2022 21:11:39.489 [1832:10808:1209/211139.485:ERROR:device_event_log_impl.cc(215)] [21:11:39.485] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 09, 2022 21:12:00.594 [1832:3880:1209/211200.593:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 21:12:36.643 [1832:1364:1209/211236.642:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 09, 2022 21:15:09.617 [1832:3880:1209/211509.616:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 21:25:44.454 [1832:3880:1209/212544.453:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 21:44:45.253 [1832:3880:1209/214445.253:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 21:47:20.356 [1832:3880:1209/214720.356:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 21:54:15.775 [1832:3880:1209/215415.774:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 22:01:10.639 [1832:3880:1209/220110.638:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 22:28:24.303 [1832:3880:1209/222824.302:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 22:36:42.160 [1832:3880:1209/223642.159:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 22:39:27.415 [1832:3880:1209/223927.415:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 22:45:40.188 [1832:3880:1209/224540.187:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 22:56:08.633 [1832:3880:1209/225608.633:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 22:58:28.852 [1832:3880:1209/225828.851:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 23:06:12.876 [1832:3880:1209/230612.876:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 23:24:17.917 [1832:3880:1209/232417.917:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 23:37:45.352 [1832:3880:1209/233745.350:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 23:44:57.438 [1832:10808:1209/234457.437:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+déc. 09, 2022 23:51:40.629 [1832:3880:1209/235140.627:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 09, 2022 23:56:31.36 [1832:10808:1209/235631.034:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+déc. 10, 2022 24:00:04.53 [1832:10808:1210/000004.052:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+déc. 10, 2022 24:08:41.624 [1832:3880:1210/000841.624:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 10, 2022 24:09:53.752 [1832:3880:1210/000953.752:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 10, 2022 24:10:48.954 [1832:3880:1210/001048.954:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+
+déc. 10, 2022 23:05:18.280 NEW SESSION
+déc. 10, 2022 23:05:18.280 [13512:16672:1210/230518.276:ERROR:device_event_log_impl.cc(215)] [23:05:18.277] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 10, 2022 23:05:39.441 [13512:10484:1210/230539.440:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 10, 2022 23:06:15.438 [13512:14704:1210/230615.437:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 10, 2022 23:49:40.283 [13512:10484:1210/234940.283:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+
+déc. 11, 2022 12:22:31.291 NEW SESSION
+déc. 11, 2022 12:22:31.292 [11132:3460:1211/122231.285:ERROR:device_event_log_impl.cc(215)] [12:22:31.284] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 11, 2022 12:22:52.401 [11132:10920:1211/122252.400:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 11, 2022 12:23:28.414 [11132:7736:1211/122328.413:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 11, 2022 12:33:56.292 [11132:10920:1211/123356.291:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 11, 2022 12:36:30.719 [11132:10920:1211/123630.718:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 11, 2022 12:37:40.888 [11132:10920:1211/123740.888:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 11, 2022 12:39:14.356 [11132:10920:1211/123914.356:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 11, 2022 12:41:46.913 [11132:10920:1211/124146.913:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 11, 2022 12:45:19.313 [11132:10920:1211/124519.312:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 11, 2022 12:45:41.687 [11132:10920:1211/124541.686:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 11, 2022 12:45:43.717 [11132:10920:1211/124543.716:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 11, 2022 12:58:22.986 [11132:10920:1211/125822.985:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 11, 2022 12:59:12.672 [11132:10920:1211/125912.671:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 11, 2022 13:10:51.330 [11132:10920:1211/131051.329:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 11, 2022 13:11:13.168 [11132:10920:1211/131113.167:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 11, 2022 13:12:00.406 [11132:10920:1211/131200.405:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 11, 2022 13:13:34.727 [11132:10920:1211/131334.726:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 11, 2022 13:17:08.895 [11132:10920:1211/131708.895:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 11, 2022 13:23:03.163 [11132:10920:1211/132303.162:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 11, 2022 13:33:03.172 [11132:10920:1211/133303.171:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 11, 2022 13:43:03.187 [11132:10920:1211/134303.186:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 11, 2022 13:43:32.295 [11132:10920:1211/134332.294:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 11, 2022 14:27:16.530 [11132:10920:1211/142716.530:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+déc. 11, 2022 14:41:59.262 [11132:10920:1211/144159.262:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -7
+déc. 11, 2022 14:42:27.673 [11132:10920:1211/144227.673:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 11, 2022 17:23:28.426 [11132:8684:1211/172328.423:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+déc. 11, 2022 22:03:33.839 NEW SESSION
+déc. 11, 2022 22:03:33.839 [2076:7752:1211/220333.834:ERROR:device_event_log_impl.cc(215)] [22:03:33.834] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 11, 2022 22:03:33.897 [2076:14720:1211/220333.897:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 11, 2022 22:03:57.62 [2076:14720:1211/220357.062:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 11, 2022 22:04:31.196 [2076:9480:1211/220431.195:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 11, 2022 22:04:37.739 [2076:14720:1211/220437.739:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 11, 2022 22:06:07.73 [2076:14720:1211/220607.072:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 11, 2022 22:09:11.999 [2076:14720:1211/220911.998:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+déc. 12, 2022 12:21:51.658 NEW SESSION
+déc. 12, 2022 12:21:51.658 [4864:12316:1212/122151.655:ERROR:device_event_log_impl.cc(215)] [12:21:51.655] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 12, 2022 12:21:51.706 [4864:7560:1212/122151.705:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 12, 2022 12:21:51.706 [4864:7560:1212/122151.705:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+déc. 12, 2022 12:21:51.706 [4864:7560:1212/122151.706:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+déc. 12, 2022 12:21:51.707 [4864:7560:1212/122151.706:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+déc. 12, 2022 12:22:19.851 [4864:7560:1212/122219.851:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+déc. 12, 2022 12:22:20.165 [4864:7560:1212/122220.164:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+déc. 12, 2022 12:22:20.863 [4864:7560:1212/122220.863:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 12, 2022 12:22:20.940 [4864:7560:1212/122220.940:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+déc. 12, 2022 12:22:47.960 [4864:1492:1212/122247.959:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 12, 2022 12:23:05.77 [4864:7560:1212/122305.077:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 12, 2022 12:23:07.981 [4864:7560:1212/122307.981:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+déc. 12, 2022 12:23:19.754 [4864:7560:1212/122319.753:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+déc. 12, 2022 12:23:19.815 [4864:7560:1212/122319.815:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+déc. 12, 2022 12:24:34.665 [4864:7560:1212/122434.665:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+déc. 12, 2022 12:24:39.177 [4864:7560:1212/122439.177:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 12, 2022 12:25:09.645 [4864:7560:1212/122509.644:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+déc. 12, 2022 12:25:10.453 [4864:7560:1212/122510.453:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+déc. 12, 2022 12:25:39.382 [4864:7560:1212/122539.382:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 12, 2022 12:33:44.762 [4864:12316:1212/123344.762:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.531 s for activation_start 0.400369 s
+déc. 12, 2022 12:33:44.913 [4864:12316:1212/123344.913:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.531 s for activation_start 0.400369 s
+déc. 12, 2022 12:33:45.18 [4864:12316:1212/123345.017:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.531 s for activation_start 0.400369 s
+déc. 12, 2022 12:33:45.125 [4864:12316:1212/123345.123:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.531 s for activation_start 0.400369 s
+déc. 12, 2022 12:33:45.235 [4864:12316:1212/123345.235:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.531 s for activation_start 0.400369 s
+déc. 12, 2022 12:33:45.345 [4864:12316:1212/123345.344:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.531 s for activation_start 0.400369 s
+déc. 12, 2022 12:33:45.469 [4864:12316:1212/123345.469:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.531 s for activation_start 0.400369 s
+déc. 12, 2022 12:33:45.579 [4864:12316:1212/123345.579:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.531 s for activation_start 0.400369 s
+déc. 12, 2022 12:33:45.954 [4864:12316:1212/123345.953:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.531 s for activation_start 0.400369 s
+déc. 12, 2022 12:33:48.732 [4864:12316:1212/123348.731:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.531 s for activation_start 0.400369 s
+déc. 12, 2022 12:33:48.886 [4864:12316:1212/123348.885:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.531 s for activation_start 0.400369 s
+déc. 12, 2022 12:34:07.32 [4864:12316:1212/123407.032:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.531 s for activation_start 0.400369 s
+déc. 12, 2022 12:37:09.09 [4864:12316:1212/123709.008:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.674 s for activation_start 0.503633 s
+déc. 12, 2022 12:37:09.147 [4864:12316:1212/123709.147:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.674 s for activation_start 0.503633 s
+déc. 12, 2022 12:37:09.260 [4864:12316:1212/123709.259:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.674 s for activation_start 0.503633 s
+déc. 12, 2022 12:37:09.375 [4864:12316:1212/123709.372:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.674 s for activation_start 0.503633 s
+déc. 12, 2022 12:37:09.478 [4864:12316:1212/123709.477:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.674 s for activation_start 0.503633 s
+déc. 12, 2022 12:37:09.608 [4864:12316:1212/123709.606:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.674 s for activation_start 0.503633 s
+déc. 12, 2022 12:37:09.725 [4864:12316:1212/123709.724:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.674 s for activation_start 0.503633 s
+déc. 12, 2022 12:37:09.840 [4864:12316:1212/123709.840:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.674 s for activation_start 0.503633 s
+déc. 12, 2022 12:37:10.204 [4864:12316:1212/123710.204:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.674 s for activation_start 0.503633 s
+déc. 12, 2022 12:37:12.581 [4864:12316:1212/123712.580:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.674 s for activation_start 0.503633 s
+déc. 12, 2022 12:37:12.720 [4864:12316:1212/123712.719:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.674 s for activation_start 0.503633 s
+déc. 12, 2022 12:41:06.12 [4864:12316:1212/124106.012:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.674 s for activation_start 0.503633 s
+déc. 12, 2022 12:41:06.135 [4864:12316:1212/124106.135:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.674 s for activation_start 0.503633 s
+déc. 12, 2022 12:54:08.972 [4864:12316:1212/125408.971:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.677 s for activation_start 0.445662 s
+déc. 12, 2022 12:54:09.148 [4864:12316:1212/125409.148:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.677 s for activation_start 0.445662 s
+déc. 12, 2022 12:54:09.275 [4864:12316:1212/125409.275:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.677 s for activation_start 0.445662 s
+déc. 12, 2022 12:54:09.394 [4864:12316:1212/125409.394:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.677 s for activation_start 0.445662 s
+déc. 12, 2022 12:54:09.965 [4864:12316:1212/125409.964:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.677 s for activation_start 0.445662 s
+déc. 12, 2022 12:55:45.572 [4864:12316:1212/125545.572:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.677 s for activation_start 0.445662 s
+déc. 12, 2022 12:55:45.739 [4864:12316:1212/125545.739:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.677 s for activation_start 0.445662 s
+déc. 12, 2022 13:14:01.205 [4864:12316:1212/131401.205:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:01.312 [4864:12316:1212/131401.311:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:01.491 [4864:12316:1212/131401.490:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:01.623 [4864:12316:1212/131401.622:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:01.724 [4864:12316:1212/131401.723:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:01.840 [4864:12316:1212/131401.839:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:01.953 [4864:12316:1212/131401.953:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:02.69 [4864:12316:1212/131402.068:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:02.408 [4864:12316:1212/131402.408:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:07.34 [4864:12316:1212/131407.031:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:07.137 [4864:12316:1212/131407.136:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:07.253 [4864:12316:1212/131407.252:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:07.370 [4864:12316:1212/131407.368:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:07.485 [4864:12316:1212/131407.485:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:07.604 [4864:12316:1212/131407.604:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:08.37 [4864:12316:1212/131408.036:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:08.153 [4864:12316:1212/131408.152:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:08.280 [4864:12316:1212/131408.279:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:09.298 [4864:12316:1212/131409.298:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:09.705 [4864:12316:1212/131409.705:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:10.12 [4864:12316:1212/131410.012:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:10.183 [4864:12316:1212/131410.182:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:10.381 [4864:12316:1212/131410.380:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:10.540 [4864:12316:1212/131410.540:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:10.692 [4864:12316:1212/131410.691:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:11.366 [4864:12316:1212/131411.366:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:11.831 [4864:12316:1212/131411.831:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:14:12.280 [4864:12316:1212/131412.280:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.687 s for activation_start 1.54811 s
+déc. 12, 2022 13:40:38.598 [4864:12316:1212/134038.598:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:38.772 [4864:12316:1212/134038.771:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:38.876 [4864:12316:1212/134038.876:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:38.996 [4864:12316:1212/134038.996:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:39.113 [4864:12316:1212/134039.112:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:39.226 [4864:12316:1212/134039.226:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:39.343 [4864:12316:1212/134039.342:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:39.723 [4864:12316:1212/134039.722:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:40.505 [4864:12316:1212/134040.504:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:42.301 [4864:12316:1212/134042.300:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:43.797 [4864:12316:1212/134043.797:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:43.940 [4864:12316:1212/134043.939:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:44.46 [4864:12316:1212/134044.045:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:44.161 [4864:12316:1212/134044.160:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:44.284 [4864:12316:1212/134044.283:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:46.284 [4864:12316:1212/134046.283:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:46.394 [4864:12316:1212/134046.393:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:46.510 [4864:12316:1212/134046.509:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:46.628 [4864:12316:1212/134046.627:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:52.121 [4864:12316:1212/134052.120:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:52.225 [4864:12316:1212/134052.223:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:52.341 [4864:12316:1212/134052.340:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:52.461 [4864:12316:1212/134052.460:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:53.405 [4864:12316:1212/134053.405:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:40:53.508 [4864:12316:1212/134053.507:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 2.005 s for activation_start 1.46957 s
+déc. 12, 2022 13:50:20.306 [4864:7560:1212/135020.305:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 12, 2022 14:20:22.827 [4864:12316:1212/142022.827:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:22.972 [4864:12316:1212/142022.971:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:23.76 [4864:12316:1212/142023.076:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:23.186 [4864:12316:1212/142023.186:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:23.303 [4864:12316:1212/142023.303:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:23.453 [4864:12316:1212/142023.452:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:23.635 [4864:12316:1212/142023.635:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:23.761 [4864:12316:1212/142023.760:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:23.871 [4864:12316:1212/142023.869:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:23.978 [4864:12316:1212/142023.977:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:24.101 [4864:12316:1212/142024.101:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:24.211 [4864:12316:1212/142024.210:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:24.337 [4864:12316:1212/142024.335:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:24.442 [4864:12316:1212/142024.440:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:24.562 [4864:12316:1212/142024.560:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:24.681 [4864:12316:1212/142024.679:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:24.804 [4864:12316:1212/142024.803:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:24.908 [4864:12316:1212/142024.908:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:25.25 [4864:12316:1212/142025.024:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:25.146 [4864:12316:1212/142025.145:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:25.272 [4864:12316:1212/142025.270:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:25.376 [4864:12316:1212/142025.375:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:25.493 [4864:12316:1212/142025.492:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:25.608 [4864:12316:1212/142025.607:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:25.725 [4864:12316:1212/142025.723:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:25.842 [4864:12316:1212/142025.840:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:25.959 [4864:12316:1212/142025.958:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:26.75 [4864:12316:1212/142026.074:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:26.192 [4864:12316:1212/142026.191:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:26.309 [4864:12316:1212/142026.308:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:26.425 [4864:12316:1212/142026.424:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:26.541 [4864:12316:1212/142026.540:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:26.658 [4864:12316:1212/142026.657:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:26.775 [4864:12316:1212/142026.774:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:26.892 [4864:12316:1212/142026.891:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:27.10 [4864:12316:1212/142027.009:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:27.125 [4864:12316:1212/142027.123:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:27.242 [4864:12316:1212/142027.241:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:27.360 [4864:12316:1212/142027.358:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:27.475 [4864:12316:1212/142027.474:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:27.592 [4864:12316:1212/142027.590:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:27.717 [4864:12316:1212/142027.716:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:27.825 [4864:12316:1212/142027.824:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:27.941 [4864:12316:1212/142027.940:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:28.57 [4864:12316:1212/142028.056:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:28.176 [4864:12316:1212/142028.174:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:28.292 [4864:12316:1212/142028.290:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:28.408 [4864:12316:1212/142028.407:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:28.524 [4864:12316:1212/142028.523:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:28.641 [4864:12316:1212/142028.640:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:28.759 [4864:12316:1212/142028.758:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:28.875 [4864:12316:1212/142028.874:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:28.994 [4864:12316:1212/142028.993:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:29.120 [4864:12316:1212/142029.119:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:29.225 [4864:12316:1212/142029.223:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:29.343 [4864:12316:1212/142029.342:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:29.460 [4864:12316:1212/142029.458:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:29.587 [4864:12316:1212/142029.585:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:29.693 [4864:12316:1212/142029.692:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:29.824 [4864:12316:1212/142029.823:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:29.939 [4864:12316:1212/142029.938:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:30.55 [4864:12316:1212/142030.054:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:30.171 [4864:12316:1212/142030.171:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:30.288 [4864:12316:1212/142030.287:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:30.404 [4864:12316:1212/142030.404:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:30.529 [4864:12316:1212/142030.529:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:30.636 [4864:12316:1212/142030.635:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:30.753 [4864:12316:1212/142030.753:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:30.869 [4864:12316:1212/142030.869:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:30.988 [4864:12316:1212/142030.987:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:31.104 [4864:12316:1212/142031.103:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:31.221 [4864:12316:1212/142031.220:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:31.342 [4864:12316:1212/142031.342:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:31.455 [4864:12316:1212/142031.455:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:31.578 [4864:12316:1212/142031.578:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:31.686 [4864:12316:1212/142031.686:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:31.804 [4864:12316:1212/142031.803:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:31.919 [4864:12316:1212/142031.919:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:32.36 [4864:12316:1212/142032.035:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:32.162 [4864:12316:1212/142032.162:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:32.270 [4864:12316:1212/142032.269:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:32.386 [4864:12316:1212/142032.385:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:32.502 [4864:12316:1212/142032.502:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:32.620 [4864:12316:1212/142032.619:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:32.737 [4864:12316:1212/142032.737:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:32.853 [4864:12316:1212/142032.852:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:32.973 [4864:12316:1212/142032.973:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:33.102 [4864:12316:1212/142033.101:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:33.204 [4864:12316:1212/142033.203:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:33.326 [4864:12316:1212/142033.326:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:33.437 [4864:12316:1212/142033.436:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:33.553 [4864:12316:1212/142033.553:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:33.676 [4864:12316:1212/142033.675:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:33.792 [4864:12316:1212/142033.790:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:33.908 [4864:12316:1212/142033.907:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:34.23 [4864:12316:1212/142034.022:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:34.141 [4864:12316:1212/142034.140:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:34.257 [4864:12316:1212/142034.256:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:34.373 [4864:12316:1212/142034.372:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:34.489 [4864:12316:1212/142034.488:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:34.608 [4864:12316:1212/142034.607:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:34.726 [4864:12316:1212/142034.725:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:34.851 [4864:12316:1212/142034.850:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:34.958 [4864:12316:1212/142034.955:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:35.72 [4864:12316:1212/142035.070:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:35.189 [4864:12316:1212/142035.188:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:35.307 [4864:12316:1212/142035.306:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:35.427 [4864:12316:1212/142035.426:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:35.540 [4864:12316:1212/142035.539:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:35.668 [4864:12316:1212/142035.666:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:35.774 [4864:12316:1212/142035.772:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:35.898 [4864:12316:1212/142035.897:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:36.07 [4864:12316:1212/142036.006:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:36.121 [4864:12316:1212/142036.120:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:36.240 [4864:12316:1212/142036.239:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:36.368 [4864:12316:1212/142036.367:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:36.473 [4864:12316:1212/142036.472:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:36.590 [4864:12316:1212/142036.589:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:36.706 [4864:12316:1212/142036.705:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:36.833 [4864:12316:1212/142036.833:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:36.936 [4864:12316:1212/142036.935:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:37.51 [4864:12316:1212/142037.051:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:37.173 [4864:12316:1212/142037.172:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:37.290 [4864:12316:1212/142037.289:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:37.409 [4864:12316:1212/142037.407:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:37.523 [4864:12316:1212/142037.523:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:37.638 [4864:12316:1212/142037.637:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:37.758 [4864:12316:1212/142037.757:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:37.873 [4864:12316:1212/142037.872:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:37.989 [4864:12316:1212/142037.989:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:38.113 [4864:12316:1212/142038.113:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:38.222 [4864:12316:1212/142038.221:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:38.339 [4864:12316:1212/142038.338:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:38.455 [4864:12316:1212/142038.455:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:38.573 [4864:12316:1212/142038.572:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:38.690 [4864:12316:1212/142038.689:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:38.814 [4864:12316:1212/142038.813:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:38.923 [4864:12316:1212/142038.922:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:39.39 [4864:12316:1212/142039.037:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:39.169 [4864:12316:1212/142039.167:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:39.273 [4864:12316:1212/142039.272:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:39.390 [4864:12316:1212/142039.389:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:39.506 [4864:12316:1212/142039.505:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:39.634 [4864:12316:1212/142039.634:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:39.737 [4864:12316:1212/142039.737:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:39.853 [4864:12316:1212/142039.853:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:39.978 [4864:12316:1212/142039.975:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:40.89 [4864:12316:1212/142040.088:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:40.217 [4864:12316:1212/142040.217:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:40.321 [4864:12316:1212/142040.321:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:40.446 [4864:12316:1212/142040.445:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:40.556 [4864:12316:1212/142040.555:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:40.672 [4864:12316:1212/142040.671:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:40.794 [4864:12316:1212/142040.792:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:40.913 [4864:12316:1212/142040.912:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:41.24 [4864:12316:1212/142041.023:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:41.139 [4864:12316:1212/142041.138:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:41.268 [4864:12316:1212/142041.267:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:41.384 [4864:12316:1212/142041.384:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:41.491 [4864:12316:1212/142041.490:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:41.614 [4864:12316:1212/142041.613:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:41.725 [4864:12316:1212/142041.724:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:41.849 [4864:12316:1212/142041.849:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:41.956 [4864:12316:1212/142041.955:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:42.74 [4864:12316:1212/142042.073:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:42.201 [4864:12316:1212/142042.200:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:42.318 [4864:12316:1212/142042.317:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:42.423 [4864:12316:1212/142042.422:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:42.540 [4864:12316:1212/142042.538:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:42.661 [4864:12316:1212/142042.660:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:42.786 [4864:12316:1212/142042.785:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:42.903 [4864:12316:1212/142042.903:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:43.35 [4864:12316:1212/142043.033:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:43.137 [4864:12316:1212/142043.137:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:43.267 [4864:12316:1212/142043.266:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:43.370 [4864:12316:1212/142043.370:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:43.491 [4864:12316:1212/142043.489:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:43.613 [4864:12316:1212/142043.613:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:43.718 [4864:12316:1212/142043.718:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:43.835 [4864:12316:1212/142043.834:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:43.951 [4864:12316:1212/142043.951:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:44.68 [4864:12316:1212/142044.068:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:44.188 [4864:12316:1212/142044.188:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:44.302 [4864:12316:1212/142044.301:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:44.418 [4864:12316:1212/142044.418:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:44.534 [4864:12316:1212/142044.533:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:44.650 [4864:12316:1212/142044.650:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:44.767 [4864:12316:1212/142044.767:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:44.884 [4864:12316:1212/142044.883:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:45.00 [4864:12316:1212/142045.000:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:45.117 [4864:12316:1212/142045.117:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:45.233 [4864:12316:1212/142045.233:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:45.350 [4864:12316:1212/142045.350:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:45.467 [4864:12316:1212/142045.466:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:45.583 [4864:12316:1212/142045.582:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:45.700 [4864:12316:1212/142045.700:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:45.817 [4864:12316:1212/142045.816:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:45.933 [4864:12316:1212/142045.933:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:46.51 [4864:12316:1212/142046.051:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:46.168 [4864:12316:1212/142046.167:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:46.284 [4864:12316:1212/142046.283:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:46.401 [4864:12316:1212/142046.400:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:46.518 [4864:12316:1212/142046.517:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:46.641 [4864:12316:1212/142046.639:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:46.758 [4864:12316:1212/142046.757:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:46.872 [4864:12316:1212/142046.871:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:46.989 [4864:12316:1212/142046.988:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:47.105 [4864:12316:1212/142047.104:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:47.233 [4864:12316:1212/142047.232:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:47.338 [4864:12316:1212/142047.337:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:47.459 [4864:12316:1212/142047.458:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:47.582 [4864:12316:1212/142047.582:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:47.694 [4864:12316:1212/142047.693:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:47.808 [4864:12316:1212/142047.806:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:47.921 [4864:12316:1212/142047.920:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:48.38 [4864:12316:1212/142048.037:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:48.155 [4864:12316:1212/142048.154:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:48.274 [4864:12316:1212/142048.273:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:48.400 [4864:12316:1212/142048.399:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:48.505 [4864:12316:1212/142048.504:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:48.633 [4864:12316:1212/142048.632:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:48.739 [4864:12316:1212/142048.738:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:48.867 [4864:12316:1212/142048.865:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:48.971 [4864:12316:1212/142048.970:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:49.90 [4864:12316:1212/142049.089:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:49.215 [4864:12316:1212/142049.214:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:49.319 [4864:12316:1212/142049.318:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:49.437 [4864:12316:1212/142049.436:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:49.558 [4864:12316:1212/142049.557:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:49.673 [4864:12316:1212/142049.672:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:49.803 [4864:12316:1212/142049.802:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:49.926 [4864:12316:1212/142049.926:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:50.40 [4864:12316:1212/142050.039:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:50.158 [4864:12316:1212/142050.158:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:50.269 [4864:12316:1212/142050.269:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:50.388 [4864:12316:1212/142050.387:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:50.508 [4864:12316:1212/142050.507:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:50.633 [4864:12316:1212/142050.632:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:50.738 [4864:12316:1212/142050.737:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:50.855 [4864:12316:1212/142050.853:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:50.971 [4864:12316:1212/142050.970:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:51.88 [4864:12316:1212/142051.087:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:51.205 [4864:12316:1212/142051.204:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:51.333 [4864:12316:1212/142051.332:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:51.445 [4864:12316:1212/142051.445:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:51.567 [4864:12316:1212/142051.566:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:51.673 [4864:12316:1212/142051.671:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:51.791 [4864:12316:1212/142051.789:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:51.914 [4864:12316:1212/142051.913:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:52.20 [4864:12316:1212/142052.019:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:52.140 [4864:12316:1212/142052.138:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:52.264 [4864:12316:1212/142052.264:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:52.371 [4864:12316:1212/142052.369:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:52.491 [4864:12316:1212/142052.490:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:52.603 [4864:12316:1212/142052.603:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:52.718 [4864:12316:1212/142052.717:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:52.835 [4864:12316:1212/142052.834:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:52.954 [4864:12316:1212/142052.952:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:53.70 [4864:12316:1212/142053.070:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:53.187 [4864:12316:1212/142053.186:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:53.304 [4864:12316:1212/142053.303:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:53.424 [4864:12316:1212/142053.423:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:53.550 [4864:12316:1212/142053.549:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:53.669 [4864:12316:1212/142053.668:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:53.792 [4864:12316:1212/142053.791:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:53.905 [4864:12316:1212/142053.904:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:54.28 [4864:12316:1212/142054.027:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:54.149 [4864:12316:1212/142054.148:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:54.254 [4864:12316:1212/142054.252:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:54.381 [4864:12316:1212/142054.380:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:54.490 [4864:12316:1212/142054.489:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:54.613 [4864:12316:1212/142054.612:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:54.720 [4864:12316:1212/142054.720:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:54.838 [4864:12316:1212/142054.837:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:54.953 [4864:12316:1212/142054.953:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:55.71 [4864:12316:1212/142055.070:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:55.187 [4864:12316:1212/142055.186:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:55.303 [4864:12316:1212/142055.302:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:55.421 [4864:12316:1212/142055.419:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:55.537 [4864:12316:1212/142055.536:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:55.657 [4864:12316:1212/142055.656:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:55.774 [4864:12316:1212/142055.773:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:55.899 [4864:12316:1212/142055.898:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:56.15 [4864:12316:1212/142056.013:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:56.132 [4864:12316:1212/142056.131:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:56.239 [4864:12316:1212/142056.238:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:56.356 [4864:12316:1212/142056.355:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:56.482 [4864:12316:1212/142056.481:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:56.590 [4864:12316:1212/142056.590:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:56.714 [4864:12316:1212/142056.714:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:56.815 [4864:12316:1212/142056.815:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:56.933 [4864:12316:1212/142056.932:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:57.50 [4864:12316:1212/142057.049:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:57.166 [4864:12316:1212/142057.166:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:57.283 [4864:12316:1212/142057.283:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:57.399 [4864:12316:1212/142057.399:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:57.516 [4864:12316:1212/142057.516:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:57.632 [4864:12316:1212/142057.632:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:57.749 [4864:12316:1212/142057.748:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:57.865 [4864:12316:1212/142057.865:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:57.982 [4864:12316:1212/142057.981:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:58.100 [4864:12316:1212/142058.099:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:58.215 [4864:12316:1212/142058.215:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:58.342 [4864:12316:1212/142058.342:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:58.462 [4864:12316:1212/142058.462:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:58.565 [4864:12316:1212/142058.565:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:58.682 [4864:12316:1212/142058.681:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:58.797 [4864:12316:1212/142058.797:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:58.915 [4864:12316:1212/142058.914:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:59.31 [4864:12316:1212/142059.030:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:59.149 [4864:12316:1212/142059.148:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:59.266 [4864:12316:1212/142059.266:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:59.383 [4864:12316:1212/142059.382:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:59.499 [4864:12316:1212/142059.499:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:59.615 [4864:12316:1212/142059.615:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:59.731 [4864:12316:1212/142059.730:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:59.848 [4864:12316:1212/142059.847:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:20:59.965 [4864:12316:1212/142059.965:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:21:00.82 [4864:12316:1212/142100.082:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:21:00.140 [4864:12316:1212/142100.139:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.306 s for activation_start 0.308171 s
+déc. 12, 2022 14:21:11.236 [4864:12316:1212/142111.236:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.526 s for activation_start 0.418477 s
+déc. 12, 2022 14:21:11.350 [4864:12316:1212/142111.350:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.526 s for activation_start 0.418477 s
+déc. 12, 2022 14:21:12.27 [4864:12316:1212/142112.027:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.526 s for activation_start 0.418477 s
+déc. 12, 2022 14:21:19.557 [4864:12316:1212/142119.557:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.526 s for activation_start 0.418477 s
+déc. 12, 2022 14:28:22.390 [4864:12316:1212/142822.390:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:22.498 [4864:12316:1212/142822.498:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:23.413 [4864:12316:1212/142823.412:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:25.580 [4864:12316:1212/142825.580:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:26.772 [4864:12316:1212/142826.772:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:27.752 [4864:12316:1212/142827.752:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:28.173 [4864:12316:1212/142828.173:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:29.129 [4864:12316:1212/142829.128:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:29.332 [4864:12316:1212/142829.331:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:29.627 [4864:12316:1212/142829.626:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:30.98 [4864:12316:1212/142830.097:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:30.237 [4864:12316:1212/142830.237:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:30.362 [4864:12316:1212/142830.362:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:30.942 [4864:12316:1212/142830.941:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:31.430 [4864:12316:1212/142831.429:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:31.541 [4864:12316:1212/142831.540:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:31.946 [4864:12316:1212/142831.945:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:32.69 [4864:12316:1212/142832.069:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:32.351 [4864:12316:1212/142832.351:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:32.693 [4864:12316:1212/142832.692:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:33.130 [4864:12316:1212/142833.129:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:33.393 [4864:12316:1212/142833.392:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:34.145 [4864:12316:1212/142834.144:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:28:34.248 [4864:12316:1212/142834.248:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 5.834 s for activation_start 0.691916 s
+déc. 12, 2022 14:30:44.833 [4864:7560:1212/143044.832:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 12, 2022 14:31:18.356 [4864:7560:1212/143118.355:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+déc. 12, 2022 14:51:11.524 [4864:7560:1212/145111.523:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -7
+déc. 12, 2022 14:51:17.514 [4864:7560:1212/145117.513:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 12, 2022 14:51:43.657 [4864:7560:1212/145143.657:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 12, 2022 14:53:01.73 [4864:12316:1212/145301.071:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:01.232 [4864:12316:1212/145301.231:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:01.420 [4864:12316:1212/145301.420:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:01.530 [4864:12316:1212/145301.529:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:01.643 [4864:12316:1212/145301.643:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:01.761 [4864:12316:1212/145301.760:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:01.882 [4864:12316:1212/145301.882:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:01.994 [4864:12316:1212/145301.994:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:02.128 [4864:12316:1212/145302.128:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:02.298 [4864:12316:1212/145302.298:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:03.148 [4864:12316:1212/145303.148:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:07.303 [4864:12316:1212/145307.303:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:07.404 [4864:12316:1212/145307.404:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:07.522 [4864:12316:1212/145307.522:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:07.638 [4864:12316:1212/145307.638:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:07.756 [4864:12316:1212/145307.755:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:07.874 [4864:12316:1212/145307.874:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:08.11 [4864:12316:1212/145308.011:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:08.121 [4864:12316:1212/145308.121:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:08.256 [4864:12316:1212/145308.255:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:08.378 [4864:12316:1212/145308.378:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:09.130 [4864:12316:1212/145309.130:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:10.331 [4864:12316:1212/145310.330:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:10.466 [4864:12316:1212/145310.466:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:10.576 [4864:12316:1212/145310.575:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:10.689 [4864:12316:1212/145310.688:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:10.811 [4864:12316:1212/145310.810:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:12.46 [4864:12316:1212/145312.045:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:12.157 [4864:12316:1212/145312.157:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:12.274 [4864:12316:1212/145312.274:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:12.391 [4864:12316:1212/145312.391:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:12.506 [4864:12316:1212/145312.506:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 14:53:24.07 [4864:12316:1212/145324.006:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.064 s for activation_start 0.38879 s
+déc. 12, 2022 15:22:09.159 [5084:3996:1212/152209.158:ERROR:device_event_log_impl.cc(215)] [15:22:09.158] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 12, 2022 15:22:30.244 [5084:15324:1212/152230.243:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 12, 2022 15:23:06.422 [5084:4292:1212/152306.421:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 12, 2022 15:53:01.762 [5084:15324:1212/155301.761:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 12, 2022 16:01:21.290 [5084:15324:1212/160121.289:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+
+déc. 12, 2022 21:28:31.934 NEW SESSION
+déc. 12, 2022 21:28:31.935 [12960:15380:1212/212831.928:ERROR:device_event_log_impl.cc(215)] [21:28:31.928] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 12, 2022 21:28:53.52 [12960:12396:1212/212853.051:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 12, 2022 21:29:28.421 [12960:8144:1212/212928.420:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 12, 2022 21:46:38.136 [12960:12396:1212/214638.135:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+déc. 12, 2022 21:46:59.455 [12960:12396:1212/214659.454:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 12, 2022 22:06:00.358 [12960:12396:1212/220600.358:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 12, 2022 23:07:58.473 [12960:12396:1212/230758.471:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 12, 2022 23:17:21.399 [12960:12396:1212/231721.398:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 12, 2022 23:18:33.454 [12960:12396:1212/231833.454:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+déc. 12, 2022 23:54:21.486 [12960:12396:1212/235421.485:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -7
+déc. 12, 2022 23:54:50.135 [12960:12396:1212/235450.134:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+
+déc. 13, 2022 10:29:55.820 NEW SESSION
+déc. 13, 2022 10:29:55.821 [6628:14416:1213/102955.814:ERROR:device_event_log_impl.cc(215)] [10:29:55.814] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 13, 2022 10:29:55.877 [6628:12296:1213/102955.876:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 10:30:25.152 [6628:12296:1213/103025.152:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 10:30:52.327 [6628:7432:1213/103052.327:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 13, 2022 10:31:17.245 [6628:12296:1213/103117.244:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 10:32:55.828 [6628:12296:1213/103255.827:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 10:36:21.02 [6628:12296:1213/103621.001:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 13:13:11.239 [16976:6664:1213/131311.238:ERROR:device_event_log_impl.cc(215)] [13:13:11.238] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 13, 2022 13:13:11.280 [16976:15056:1213/131311.280:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 13:13:40.396 [16976:15056:1213/131340.396:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 13:14:07.483 [16976:9556:1213/131407.483:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 13, 2022 13:14:38.809 [16976:15056:1213/131438.809:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 13:16:25.206 [16976:15056:1213/131625.205:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 13:20:16.402 [16976:15056:1213/132016.401:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+déc. 13, 2022 15:23:20.570 NEW SESSION
+déc. 13, 2022 15:23:20.570 [2920:12048:1213/152320.566:ERROR:device_event_log_impl.cc(215)] [15:23:20.566] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 13, 2022 15:23:20.603 [2920:17908:1213/152320.603:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 15:23:20.604 [2920:17908:1213/152320.603:ERROR:checkin_request.cc(240)] Check-in request got net error: -105
+déc. 13, 2022 15:23:43.515 [2920:17908:1213/152343.515:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 15:23:49.825 [2920:17908:1213/152349.824:ERROR:checkin_request.cc(240)] Check-in request got net error: -105
+déc. 13, 2022 15:24:17.390 [2920:6472:1213/152417.390:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 13, 2022 15:24:41.676 [2920:17908:1213/152441.675:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 15:24:43.814 [2920:17908:1213/152443.814:ERROR:checkin_request.cc(240)] Check-in request got net error: -105
+déc. 13, 2022 15:26:19.135 [2920:17908:1213/152619.134:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 15:26:19.979 [2920:17908:1213/152619.978:ERROR:checkin_request.cc(240)] Check-in request got net error: -105
+déc. 13, 2022 15:29:20.704 [2920:17908:1213/152920.703:ERROR:checkin_request.cc(240)] Check-in request got net error: -105
+déc. 13, 2022 15:29:21.994 [2920:17908:1213/152921.993:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 15:34:57.774 [2920:17908:1213/153457.773:ERROR:checkin_request.cc(240)] Check-in request got net error: -105
+déc. 13, 2022 15:36:58.718 [2920:17908:1213/153658.717:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 15:44:57.785 [2920:17908:1213/154457.784:ERROR:checkin_request.cc(240)] Check-in request got net error: -105
+déc. 13, 2022 15:46:58.729 [2920:17908:1213/154658.728:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 15:54:57.802 [2920:17908:1213/155457.802:ERROR:checkin_request.cc(240)] Check-in request got net error: -105
+déc. 13, 2022 15:56:58.733 [2920:17908:1213/155658.732:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:04:57.824 [2920:17908:1213/160457.824:ERROR:checkin_request.cc(240)] Check-in request got net error: -105
+déc. 13, 2022 16:06:58.740 [2920:17908:1213/160658.740:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:14:57.835 [2920:17908:1213/161457.835:ERROR:checkin_request.cc(240)] Check-in request got net error: -105
+déc. 13, 2022 16:16:58.756 [2920:17908:1213/161658.755:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:24:57.852 [2920:17908:1213/162457.851:ERROR:checkin_request.cc(240)] Check-in request got net error: -105
+déc. 13, 2022 16:26:58.771 [2920:17908:1213/162658.770:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:27:53.94 [2920:17908:1213/162753.093:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:28:02.68 [2920:17908:1213/162802.067:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:28:11.536 [2920:17908:1213/162811.536:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:28:20.67 [2920:17908:1213/162820.066:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:28:35.546 [2920:17908:1213/162835.545:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:28:44.40 [2920:17908:1213/162844.039:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:28:54.48 [2920:17908:1213/162854.047:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:29:02.537 [2920:17908:1213/162902.536:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:29:12.54 [2920:17908:1213/162912.054:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:29:20.60 [2920:17908:1213/162920.060:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:29:31.548 [2920:17908:1213/162931.548:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:29:38.740 [2920:17908:1213/162938.740:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:29:44.669 [2920:17908:1213/162944.669:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:29:50.734 [2920:17908:1213/162950.734:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:29:58.46 [2920:17908:1213/162958.046:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:30:08.972 [2920:17908:1213/163008.971:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 16:34:57.869 [2920:17908:1213/163457.868:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+déc. 13, 2022 16:39:27.543 [2920:17908:1213/163927.542:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 13, 2022 16:39:52.446 [2920:17908:1213/163952.445:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 13, 2022 16:41:10.129 [2920:17908:1213/164110.129:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+
+déc. 13, 2022 21:10:03.72 NEW SESSION
+déc. 13, 2022 21:10:03.73 [8600:14524:1213/211003.070:ERROR:device_event_log_impl.cc(215)] [21:10:03.069] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 13, 2022 21:10:03.122 [8600:2812:1213/211003.122:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 21:10:26.83 [8600:2812:1213/211026.082:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 21:10:59.853 [8600:4004:1213/211059.852:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 13, 2022 21:11:07.336 [8600:2812:1213/211107.336:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 21:12:56.392 [8600:2812:1213/211256.391:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 21:15:56.644 [8600:2812:1213/211556.643:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 21:21:27.268 [8600:2812:1213/212127.267:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 21:31:27.278 [8600:2812:1213/213127.277:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 21:43:10.504 [18316:12812:1213/214310.503:ERROR:device_event_log_impl.cc(215)] [21:43:10.503] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 13, 2022 21:43:10.564 [18316:10936:1213/214310.563:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 21:43:37.440 [18316:10936:1213/214337.439:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 21:44:07.245 [18316:3800:1213/214407.245:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 13, 2022 21:44:26.461 [18316:10936:1213/214426.460:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 21:45:47.835 [18316:10936:1213/214547.835:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 22:04:17.430 [16916:4768:1213/220417.429:ERROR:device_event_log_impl.cc(215)] [22:04:17.430] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 13, 2022 22:04:17.473 [16916:16892:1213/220417.472:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 22:04:41.12 [16916:16892:1213/220441.011:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 22:05:14.949 [16916:15684:1213/220514.948:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 13, 2022 22:05:38.313 [16916:16892:1213/220538.312:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 22:07:15.947 [16916:16892:1213/220715.947:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 22:10:06.664 [16916:16892:1213/221006.663:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 22:17:53.99 [16916:16892:1213/221753.098:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 22:27:53.111 [16916:16892:1213/222753.110:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 22:37:53.115 [16916:16892:1213/223753.115:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 22:47:53.135 [16916:16892:1213/224753.134:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 22:57:53.156 [16916:16892:1213/225753.156:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 23:05:48.653 [16916:4768:1213/230548.653:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+déc. 13, 2022 23:07:53.169 [16916:16892:1213/230753.169:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 23:17:53.183 [16916:16892:1213/231753.182:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 23:27:53.197 [16916:16892:1213/232753.197:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 23:37:53.206 [16916:16892:1213/233753.206:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 23:47:53.214 [16916:16892:1213/234753.213:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 13, 2022 23:57:53.225 [16916:16892:1213/235753.225:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+déc. 14, 2022 24:02:45.390 NEW SESSION
+déc. 14, 2022 24:02:45.391 [2988:8284:1214/000245.385:ERROR:device_event_log_impl.cc(215)] [00:02:45.385] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 14, 2022 24:02:45.441 [2988:16304:1214/000245.440:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 14, 2022 24:03:15.196 [2988:16304:1214/000315.195:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 14, 2022 24:03:41.636 [2988:13820:1214/000341.635:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 14, 2022 24:04:02.456 [2988:16304:1214/000402.456:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 14, 2022 24:05:27.353 [2988:16304:1214/000527.352:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+déc. 14, 2022 10:58:45.597 NEW SESSION
+déc. 14, 2022 10:58:45.597 [8160:10056:1214/105845.593:ERROR:device_event_log_impl.cc(215)] [10:58:45.592] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 14, 2022 10:59:06.680 [8160:15412:1214/105906.680:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 14, 2022 10:59:42.830 [8160:4700:1214/105942.830:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 14, 2022 13:57:02.438 [8160:15412:1214/135702.437:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 14, 2022 13:57:49.144 [8160:15412:1214/135749.144:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 14, 2022 14:48:32.550 [8160:15412:1214/144832.549:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+déc. 14, 2022 15:04:45.247 [8160:15412:1214/150445.246:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -7
+déc. 14, 2022 15:04:46.962 [8160:15412:1214/150446.962:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 14, 2022 15:04:46.965 [8160:14224:1214/150446.965:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+déc. 14, 2022 15:05:28.103 [8160:15412:1214/150528.103:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 14, 2022 15:59:42.827 [8160:2944:1214/155942.826:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 14, 2022 16:10:04.608 [8160:15412:1214/161004.608:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 14, 2022 16:10:50.535 [8160:15412:1214/161050.534:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+
+déc. 15, 2022 10:21:52.403 NEW SESSION
+déc. 15, 2022 10:21:52.403 [7744:10008:1215/102152.396:ERROR:device_event_log_impl.cc(215)] [10:21:52.397] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 15, 2022 10:22:13.544 [7744:3084:1215/102213.542:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 15, 2022 10:22:49.909 [7744:17260:1215/102249.908:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 15, 2022 10:25:30.703 [7744:3084:1215/102530.702:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 15, 2022 10:26:00.728 [7744:3084:1215/102600.727:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 15, 2022 10:27:00.505 [7744:3084:1215/102700.505:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 15, 2022 10:29:02.641 [7744:3084:1215/102902.640:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 15, 2022 10:32:52.503 [7744:3084:1215/103252.502:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 15, 2022 10:40:00.496 [7744:3084:1215/104000.495:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 15, 2022 10:50:21.644 [7744:3084:1215/105021.643:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 15, 2022 11:02:41.517 [7744:3084:1215/110241.516:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 15, 2022 11:03:38.416 [7744:3084:1215/110338.415:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 15, 2022 11:39:55.398 [7744:3084:1215/113955.397:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 15, 2022 11:40:48.28 [7744:3084:1215/114048.028:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 15, 2022 11:42:07.785 [7744:3084:1215/114207.785:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 15, 2022 12:03:52.368 [7744:3084:1215/120352.367:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 15, 2022 12:30:05.531 [7744:3084:1215/123005.531:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 15, 2022 12:33:02.779 [7744:3084:1215/123302.779:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 15, 2022 12:35:02.523 [7744:3084:1215/123502.523:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+déc. 15, 2022 13:07:21.245 [7744:3084:1215/130721.244:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -7
+déc. 15, 2022 13:07:29.88 [7744:3084:1215/130729.088:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 15, 2022 13:08:15.185 [7744:3084:1215/130815.185:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 15, 2022 14:19:59.607 [7744:3084:1215/141959.606:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 15, 2022 14:50:54.343 [14500:17140:1215/145054.343:ERROR:device_event_log_impl.cc(215)] [14:50:54.342] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 15, 2022 14:51:15.436 [14500:16744:1215/145115.436:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 15, 2022 14:51:51.142 [14500:15240:1215/145151.142:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+déc. 15, 2022 22:32:07.860 NEW SESSION
+déc. 15, 2022 22:32:07.860 [2916:13436:1215/223207.856:ERROR:device_event_log_impl.cc(215)] [22:32:07.856] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 15, 2022 22:32:29.81 [2916:1216:1215/223229.080:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 15, 2022 22:33:04.205 [2916:14400:1215/223304.204:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 15, 2022 22:40:47.566 [2916:1216:1215/224047.566:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 15, 2022 23:33:05.345 [2916:1216:1215/233305.344:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 16, 2022 24:05:21.365 [2916:1216:1216/000521.365:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+déc. 16, 2022 24:13:12.974 [2916:1216:1216/001312.974:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -7
+déc. 16, 2022 24:13:15.279 [2916:1216:1216/001315.279:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 16, 2022 24:13:21.977 [2916:1216:1216/001321.977:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 16, 2022 24:13:31.527 [2916:1216:1216/001331.527:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 16, 2022 24:13:42.498 [2916:1216:1216/001342.498:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 16, 2022 24:13:54.60 [2916:13436:1216/001354.060:ERROR:device_event_log_impl.cc(215)] [00:13:54.059] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+déc. 16, 2022 24:13:55.198 [2916:1216:1216/001355.198:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 16, 2022 24:13:59.767 [2916:1216:1216/001359.767:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 16, 2022 24:14:11.695 [2916:1216:1216/001411.695:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 16, 2022 24:15:27.181 [2916:1216:1216/001527.181:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 16, 2022 24:16:13.40 [2916:1216:1216/001613.040:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 16, 2022 01:02:59.15 [2916:1216:1216/010259.014:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 16, 2022 01:13:17.800 [2916:1216:1216/011317.800:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+
+déc. 16, 2022 11:05:57.382 NEW SESSION
+déc. 16, 2022 11:05:57.383 [6440:17932:1216/110557.378:ERROR:device_event_log_impl.cc(215)] [11:05:57.378] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 16, 2022 11:06:18.483 [6440:13832:1216/110618.483:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 16, 2022 11:06:54.498 [6440:2020:1216/110654.497:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 16, 2022 11:38:18.314 [6440:13832:1216/113818.313:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 16, 2022 11:48:55.871 [6440:13832:1216/114855.871:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 16, 2022 11:59:46.801 [6440:13832:1216/115946.800:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 16, 2022 12:00:47.829 [6440:13832:1216/120047.828:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 16, 2022 12:05:27.337 [6440:13832:1216/120527.336:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 16, 2022 12:51:59.345 [6440:13832:1216/125159.344:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -103
+déc. 16, 2022 12:52:26.567 [6440:13832:1216/125226.566:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 16, 2022 12:55:28.524 [6440:13832:1216/125528.523:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 16, 2022 13:17:49.09 [6440:13832:1216/131749.009:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 16, 2022 13:18:18.65 [6440:13832:1216/131818.065:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+
+déc. 16, 2022 15:25:44.910 NEW SESSION
+déc. 16, 2022 15:25:44.910 [17256:5868:1216/152544.905:ERROR:device_event_log_impl.cc(215)] [15:25:44.906] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 16, 2022 15:26:06.145 [17256:8760:1216/152606.145:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 16, 2022 15:26:41.614 [17256:6244:1216/152641.614:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 16, 2022 15:47:27.337 [17256:8760:1216/154727.336:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 16, 2022 15:49:32.413 [17256:8760:1216/154932.413:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 16, 2022 16:14:44.113 [17256:8760:1216/161444.112:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+
+déc. 16, 2022 22:55:26.338 NEW SESSION
+déc. 16, 2022 22:55:26.338 [2560:14520:1216/225526.333:ERROR:device_event_log_impl.cc(215)] [22:55:26.333] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 16, 2022 22:55:47.482 [2560:9524:1216/225547.481:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 16, 2022 22:56:23.444 [2560:13388:1216/225623.443:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 16, 2022 23:18:10.146 [2560:9524:1216/231810.145:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 16, 2022 23:23:21.984 [2560:9524:1216/232321.983:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 17, 2022 24:04:20.210 [2440:2948:1217/000420.209:ERROR:device_event_log_impl.cc(215)] [00:04:20.209] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 17, 2022 24:04:41.277 [2440:5608:1217/000441.277:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 17, 2022 24:05:17.688 [2440:9756:1217/000517.687:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 17, 2022 24:07:45.259 [2440:5608:1217/000745.258:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 17, 2022 24:08:25.407 [2440:5608:1217/000825.406:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 17, 2022 24:09:29.954 [2440:5608:1217/000929.953:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 17, 2022 24:15:04.728 [2440:5608:1217/001504.728:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 17, 2022 24:22:50.383 [2440:5608:1217/002250.382:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 17, 2022 24:22:52.453 [2440:5608:1217/002252.452:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 17, 2022 24:22:56.596 [2440:5608:1217/002256.596:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 17, 2022 24:23:06.562 [2440:5608:1217/002306.562:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 17, 2022 24:30:57.284 [2440:5608:1217/003057.283:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 17, 2022 24:40:57.299 [2440:5608:1217/004057.298:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+déc. 17, 2022 24:50:56.655 [2440:5608:1217/005056.654:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 17, 2022 24:54:32.603 [2440:5608:1217/005432.602:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+déc. 17, 2022 24:55:06.512 [2440:5608:1217/005506.512:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+
+déc. 17, 2022 11:25:48.355 NEW SESSION
+déc. 17, 2022 11:25:48.355 [12720:17952:1217/112548.352:ERROR:device_event_log_impl.cc(215)] [11:25:48.352] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 17, 2022 11:26:41.828 [12720:12128:1217/112641.827:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 17, 2022 14:12:51.908 [12720:7640:1217/141251.906:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+déc. 17, 2022 15:03:45.775 [12720:7640:1217/150345.774:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+déc. 17, 2022 15:22:36.631 [12720:7640:1217/152236.630:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 17, 2022 15:23:06.498 [12720:7640:1217/152306.498:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 17, 2022 15:24:09.314 [12720:7640:1217/152409.314:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 17, 2022 15:24:19.896 [12720:17952:1217/152419.896:ERROR:device_event_log_impl.cc(215)] [15:24:19.895] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+déc. 17, 2022 15:24:20.824 [12720:7640:1217/152420.823:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+déc. 17, 2022 16:26:41.838 [12720:1816:1217/162641.837:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+déc. 17, 2022 21:52:24.80 NEW SESSION
+déc. 17, 2022 21:52:24.81 [3516:8604:1217/215224.074:ERROR:device_event_log_impl.cc(215)] [21:52:24.074] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 17, 2022 21:52:45.202 [3516:17384:1217/215245.201:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 17, 2022 21:53:21.331 [3516:14760:1217/215321.330:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+déc. 17, 2022 22:00:42.184 NEW SESSION
+déc. 17, 2022 22:00:42.185 [14044:14396:1217/220042.181:ERROR:device_event_log_impl.cc(215)] [22:00:42.182] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: Un périphérique attaché au système ne fonctionne pas correctement. (0x1F)
+déc. 17, 2022 22:01:03.257 [14044:11088:1217/220103.257:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+déc. 17, 2022 22:01:39.634 [14044:8156:1217/220139.633:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+déc. 18, 2022 24:55:53.481 [14044:11088:1218/005553.480:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+déc. 18, 2022 01:00:04.381 [14044:11088:1218/010004.381:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -7

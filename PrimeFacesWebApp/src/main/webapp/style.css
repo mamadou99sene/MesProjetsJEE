@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+.welcome-panel {
+    width: 80%;
+    margin: 50px auto;
+}
+
+.welcome-text {
+    font-size: 100%;
+    margin-bottom: 10px;
+}
+
+.email-text {
+    font-style: italic;
+    color: #666;
+}

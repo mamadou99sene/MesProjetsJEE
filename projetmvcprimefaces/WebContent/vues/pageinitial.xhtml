@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">         
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:c="http://java.sun.com/jsp/jstl/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:p="http://primefaces.org/ui">
+<h:head>
+	<!-- <h:outputStylesheet name="style.css" library="MesCss" /> -->
+	<h:outputStylesheet name="formulaire.css" library="MesCss" />
+	     <script type="text/javascript">
+                           window.history.forward();
+                           window.history.backward();
+                           function noBack() { window.history.forward(); 
+                                               window.history.backward();
+                                               }
+                           
+         </script>
+    
+</h:head>
+<p:layout fullPage="true" onload="noBack();" onpageshow="if (event.persisted) noBack();" onunload="">
+
+            
+<p:layoutUnit position="north" size="30%" header="&nbsp;"
+		resizable="false" closable="false" collapsible="false">
+		<h:form id="conx">
+			<p:row style="width:50%">
+				 <p:graphicImage  value="/banniere/PLUME.png" width="590" height="178"/> 
+
+			</p:row>
+		</h:form>
+</p:layoutUnit>
+
+
+<p:layoutUnit position="center" size="35%" header="&nbsp;"
+		resizable="false" closable="false" collapsible="false">		
+    <h1 style="margin-top:0">Aperçu des Cours et Formations dont vous pouvez bénéficier.</h1>
+   <p:accordionPanel>
+    <p:tab title="Aperçu des cours">
+	     <h:form id="formcours">                            
+              Test
+        </h:form>
+        </p:tab>    
+    </p:accordionPanel>
+
+   </p:layoutUnit>
+
+
+<p:layoutUnit position="east" size="25%" header="Accès Espace Cours et Enseignements"
+		resizable="true" closable="false" collapsible="false" effect="drop">
+	<p:fieldset legend="AUTHENTIFICATION" toggleable="false">
+
+				<h:form id="connexionform">
+				<!-- Decommentez le growl si vous souhaitez voir les messages d'erreurs au coin superieur droit
+				     de votre ecran -->
+			<p:growl id="msg" showDetail="true" life="3000" />
+					<p:separator />
+					<br />
+					<br />
+					<p:fieldset id="enteteconnexion" legend="Paramètres de connexion">
+						<h:panelGrid columns="3" cellpadding="2">
+						<p:outputLabel for="login" value="Login:" />
+						<p:inputText id="login" value="#{connexionBean.utilisateur.login}"
+							required="true" requiredMessage="Le login est requis!" label="login" />
+						<p:message for="login"  style="color:blue;"/>
+						<p:outputLabel for="motpasse" value="Mot de Passe:" />
+						<h:inputSecret id="motpasse"	value="#{connexionBean.utilisateur.motpasse}" 
+						required="true" requiredMessage="Le mot de passe est requis!"
+							label="motpasse" />
+						<p:message for="motpasse"  style="color:blue;"/>
+						</h:panelGrid>
+						</p:fieldset>
+                   	<h:panelGrid columns="1" cellpadding="2">
+						<p:separator />
+						<p:commandButton type="submit" value="Connexion" 
+						icon="picto/valider1.png" 
+						actionListener="#{connexionBean.verifierMotPasse}" 
+						update="connexionform:msg"
+							/>
+		            <p:separator />		            
+					<p:commandLink id="newaccount" value="Ouvrir un nouveau compte !" onclick="PF('ouvertureCompteDialogForm').show()" ajax="true"></p:commandLink>
+					<p:commandLink id="helppwd" value="Mot de Passe oublié !"></p:commandLink>
+					<p:separator />
+					</h:panelGrid>
+				</h:form>
+
+			</p:fieldset>
+			    </p:layoutUnit>
+			    </p:layout>
+</html>

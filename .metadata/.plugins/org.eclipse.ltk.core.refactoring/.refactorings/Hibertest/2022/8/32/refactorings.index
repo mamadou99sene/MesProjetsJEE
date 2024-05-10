@@ -1,0 +1,21 @@
+1660153928159	Rename resource 'hibernate.hbm.xml'
+1660153963918	Delete element
+1660154077909	Move 'hibernate.cfg.xml' to 'src'
+1660155481435	Move 'contact.hbm.xml' to 'contact'
+1660155494323	Move 'hibernate.cfg.xml' to 'contact'
+1660320416430	Move 'hibernate.cfg.xml' to 'src'
+1660320439568	Move 'contact.hbm.xml' to 'src'
+1660321512066	Delete element
+1660321531398	Delete element
+1660322718797	Delete element
+1660326731567	Move 'hibernate.cfg.xml' to 'contact'
+1660326764654	Move 'contact.hbm.xml' to 'contact'
+1660326847053	Move 'contact.hbm.xml' to 'src'
+1660326851133	Move 'hibernate.cfg.xml' to 'src'
+1660327079079	Move 'HibernateUtil.java' to 'contact'
+1660327544375	Move 'HibernateUtil.java' to 'util'
+1660327564567	Delete element
+1660327869119	Move 'util' to 'java'
+1660328601450	Move 'util' to 'src'
+1660328622806	Move 'HibernateUtil.java' to 'util'
+1660328633943	Delete element

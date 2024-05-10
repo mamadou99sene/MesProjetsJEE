@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+body
+{
+	text-align:center;
+	font-size: 70px;
+	font-weight:bold;
+	margin-top:10%;
+	border: 2px double black;
+}

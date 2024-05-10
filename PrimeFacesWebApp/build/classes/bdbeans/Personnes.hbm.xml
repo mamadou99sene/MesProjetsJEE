@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generated 27 janv. 2024, 23:06:48 by Hibernate Tools 5.6.7.Final --><!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="bdbeans.Personnes" optimistic-lock="none" schema="public" table="personnes">
+        <id name="idpersonne" type="int">
+            <column name="idpersonne"/>
+            <generator class="assigned"/>
+        </id>
+        <property name="prenom" type="string">
+            <column length="50" name="prenom"/>
+        </property>
+        <property name="nom" type="string">
+            <column length="50" name="nom"/>
+        </property>
+        <property name="email" type="string">
+            <column length="50" name="email"/>
+        </property>
+        <property name="password" type="string">
+            <column length="50" name="password"/>
+        </property>
+    </class>
+</hibernate-mapping>

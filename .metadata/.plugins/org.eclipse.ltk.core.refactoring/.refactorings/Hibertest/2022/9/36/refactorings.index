@@ -1,0 +1,9 @@
+1662549298656	Move 'contact.hbm.xml' to 'contact'
+1662549329592	Move 'hibernate.cfg.xml' to 'contact'
+1662551747290	Delete element
+1662551872523	Delete element
+1662557683393	Delete element
+1662558131360	Delete element
+1662558640115	Move 'HibernateUtil.java' to 'contact'
+1662558772192	Move 'HibernateUtil.java' to 'util'
+1662565601331	Delete element

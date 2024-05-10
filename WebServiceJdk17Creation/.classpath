@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/FIS-TS/.m2/repository/jakarta/jws/jakarta.jws-api/3.0.0/jakarta.jws-api-3.0.0.jar" sourcepath="C:/Users/FIS-TS/.m2/repository/jakarta/jws/jakarta.jws-api/3.0.0/jakarta.jws-api-3.0.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="jakarta.jws"/>
+			<attribute name="maven.artifactId" value="jakarta.jws-api"/>
+			<attribute name="maven.version" value="3.0.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/FIS-TS/.m2/repository/jakarta/xml/ws/jakarta.xml.ws-api/3.0.0/jakarta.xml.ws-api-3.0.0.jar" sourcepath="C:/Users/FIS-TS/.m2/repository/jakarta/xml/ws/jakarta.xml.ws-api/3.0.0/jakarta.xml.ws-api-3.0.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="jakarta.xml.ws"/>
+			<attribute name="maven.artifactId" value="jakarta.xml.ws-api"/>
+			<attribute name="maven.version" value="3.0.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

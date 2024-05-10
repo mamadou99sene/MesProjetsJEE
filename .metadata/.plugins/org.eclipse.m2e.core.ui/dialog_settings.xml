@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\FIS-TS\mesProjetsJEE\REST_COVID_WEB_SERVICE\src\main\java\controller\UtilisateurController.java"/>
+			<item value="C:\Users\FIS-TS\mesProjetsJEE"/>
+			<item value="C:\Users\FIS-TS\mesProjetsJEE\RestFull_COVID\src\main\java\test\Test.java"/>
+			<item value="C:\Users\FIS-TS\mesProjetsJEE\Client_REST_Tomee\pom.xml"/>
+			<item value="C:\Users\FIS-TS\mesProjetsJEE\TP_WS_REST_TomEE\src\main\java\web\Banque.java"/>
+			<item value="C:\Users\FIS-TS\mesProjetsJEE\TP_WS_REST_TomEE\src\main\java\web\BanqueRS.java"/>
+			<item value="C:\Users\FIS-TS\mesProjetsJEE\WebServiceCalculator\src\main\java\momo\webServices\CalculatorTest.java"/>
+			<item value="C:\Users\FIS-TS\mesProjetsJEE\send_mail"/>
+			<item value="C:\Users\FIS-TS\mesProjetsJEE\projetmvcprimefaces\WebContent\vues\acceuil.xhtml"/>
+			<item value="C:\Users\FIS-TS\mesProjetsJEE\TestHibernate\src\main\java\momol\DAO\HibernateSessionFactory.java"/>
+			<item value="C:\Users\FIS-TS\mesProjetsJEE\MavenProjet"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="momo"/>
+			<item value="org.momo"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="PrimafaceAuthent"/>
+			<item value="PrimefacesAuth"/>
+			<item value="PrimefacesAuthentification"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+		<list key="archetypeGroupId">
+			<item value="org.apache.maven.archetypes"/>
+		</list>
+		<list key="archetypeArtifactId">
+			<item value="maven-archetype-webapp"/>
+		</list>
+		<list key="archetypeVersion">
+			<item value="1.0"/>
+		</list>
+		<list key="repositoryUrl">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="531"/>
+		<item key="x" value="443"/>
+		<item key="y" value="12"/>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="PrimeFaceWebApp"/>
+			<item value="PrimeFacesWebApp"/>
+			<item value="Client_REST"/>
+			<item value="WebServiceJdk17Creation"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="PrimeFaceWebApp"/>
+			<item value="PrimeFacesWebApp"/>
+			<item value="Client_REST"/>
+			<item value="WebServiceJdk17Creation"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
